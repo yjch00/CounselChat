@@ -1,0 +1,9 @@
+{
+    "87": "[UnboundLocalError] local variable 'random' referenced before assignment",
+    "90": "[UnboundLocalError] local variable 'random' referenced before assignment",
+    "129": "[UnboundLocalError] local variable 'random' referenced before assignment",
+    "146": "[UnboundLocalError] local variable 'random' referenced before assignment",
+    "165": "[UnboundLocalError] local variable 'random' referenced before assignment",
+    "199": "[RateLimitError] Error code: 429 - {'message': 'Too Many Requests'}",
+    "200": "[RateLimitError] Error code: 429 - {'message': 'Too Many Requests'}"
+}

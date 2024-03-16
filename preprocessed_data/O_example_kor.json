@@ -1,0 +1,1365 @@
+[
+	{
+		"dialogue_id": "O-0",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 말씀해주세요.",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-1",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 말씀해주세요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "뭘 알고싶으시죠? 전 그것에 대해 할 말이 별로 없는데요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 할 이야기가 별로 없으시군요. ",
+				"technique": [
+					"open questioning"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. 선생님이 무엇을 알고 싶어 하는지 모르겠어요."
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-2",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 말씀해주세요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "뭘 알고싶으시죠? 전 그것에 대해 할 말이 별로 없는데요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 할 이야기가 별로 없으시군요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. 선생님이 무엇을 알고 싶어 하는지 모르겠어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "이곳에 오늘 무슨 일로 오셨는지 제게 말씀해 주세요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그래요. 음주운전으로 체포되었는데, 여기 와서 치료가 필요하다는 사실도 알게되었어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "음주가 당신을 원하지 않는 곳에 오게 하는군요. 그리고 치료가 필요하다는 사실도 알게 되었군요",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "음주가 나쁘다고 생각하지는 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신을 아는 다른 사람들은 어떻게 생각할까요?",
+				"technique": [
+					"open questioning"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "나를 아는 사람들도 나와 비슷하게 말하겠지요."
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-3",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "뭔가 신경 쓰이는 일이 있나요? 어떤 거죠?",
+				"technique": [
+					"open questioning"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "예를 들어 회사에서 일할 때는 안 피웁니다."
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-4",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어째서 나만 걱정을 하는지, 왜 걱정하는지, 걱정하지 않게 할 방법은 없는지 이런 생각을 하면 어떤 기분이세요?",
+				"technique": [
+					"open questioning"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그러면 왜 난 이런 성격을 타고 났나 하는 생각에 우울해져요."
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-5",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "용변을 만진다, 손을 씻지 않는다'라고 쓰여있었잖아요. 읽기만 해도 무섭지 않던가요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그런 거 상상하기도 싫어요. 어떻게 될지 말이죠."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그런데 끝까지 잘 읽었네요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "선생님이 읽으라고 하셨으니까 읽긴 했죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "어떻게 해야할지 지난 일주일간 생각하셨나요? ",
+				"technique": [
+					"open questioning"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "어떻게 할 지 생각도 하기 싫고, 실제로 하는 것 자체가 상상이 안돼요."
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-6",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 점에서 이것이 문제라고 생각하세요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-7",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이 문제로 어떠한 어려움이 있으셨나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-8",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 부분에서 당신과 다른 사람들이 피해를 보았다고 생각하시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-9",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 방식으로 이것이 당신에게 문제였나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-10",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이 문제가 당신이 하고자 한 일을 어떻게 방해했나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-11",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이 문제로 염려하는 이유가 무엇인가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-12",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 것이 걱정되시나요? 어떤 일이 일어날 거라고 상상이 되나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-13",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이 문제로 얼마나 많이 염려가 되시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-14",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이 문제를 해결하지 않으면 무슨 일이 일어날 것이라고 생각하시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-15",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "여기에 오신 이유가 스스로 무언가를 해야할 때라고 생각을 한 거지요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-16",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "변화를 해야하는 이유가 어떤 것이라고 보세요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-17",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "무슨 이유로 변화할 필요가 있다고 생각하세요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-18",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "만약 100% 성공해서 원하는 대로 된다면, 무엇이 달라질까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-19",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "무엇이 당신을 꼼짝 못하게 하나요? 어떤 변화가 있어야 하나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-20",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "마음만 먹는다면 변화할 수 있다고 생각하게 하는 것은 어떤 점들인가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-21",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "원한다면 바꿀 수 있다고 격려하는 것은 무엇인가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-22",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "변화해야 할 필요가 있다면 무엇이 도움이 될 수 있다고 생각하나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-23",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "최근에 어떤 노력을 했는지 말해주세요.",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-24",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 이유들 때문인지 말해주세요.",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-25",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "그 밖에 또 어떤 것이 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-26",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "음, 여기까지 왔네요. 제 주치의가 말하길 치료절차를 밟기 전에 당신을 만나서 식습관과 운동에 대해 말해볼 필요가 있다고 하더군요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "주치의 선생님께서 당신이 여기 오는 것을 원하셔서 오신 것처럼 들려요. 여기 오시는 것에 대해 어떻게 생각하시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-27",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "매일 저녁 약을 먹어야 한다는 사실을 기억하지 못할 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "무엇이 기억하는 데 도움이 될까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-28",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "매일 저녁 약을 먹어야 한다는 사실을 기억하지 못할 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "기억하는 데 도움이 될 수 있는 장치를 사용하는 것에 대해 어떻게 생각하세요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-29",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "매일 저녁 약을 먹어야 한다는 사실을 기억하지 못할 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "약을 복용하는 것과 관련해서 무엇이 당신을 염려하게 하나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-30",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "매일 저녁 약을 먹어야 한다는 사실을 기억하지 못할 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "저녁에 무슨 일이 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-31",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "매일 저녁 약을 먹어야 한다는 사실을 기억하지 못할 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "약을 드시고 싶어 하는 어떤 이유가 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-32",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "가족은 제가 우울한 것 같다고 하는데 전 잘 모르겠어요. 전 회사도 잘 나가고 있고 사람들과도 잘 어울려요. 우울한 사람들을 그냥 집에만 있게 두지 마세요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "무엇이 당신과 집에만 있는 사람들을 다르게 만들었죠?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-33",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "오늘  좀 어떠세요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-34",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "오늘 여기 온 것이 어떠신가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-35",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "우리가 함께 할 상담 과정을 머리에 어떻게 그리고 계세요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-36",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "상담에 있어서 가지고 계신 의심이나 걱정은 무엇인가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-37",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 점이 달라지길 기대하시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-38",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이런 변화를 원하는 이유는 무엇인가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-39",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신이 성취하기에 가능성이 있어 보이는 일은 무엇인가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-40",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 어떤 일을 할 수 있을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-41",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 무슨 일을 할 수 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-42",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "만약 당신이 변화하기로 결심한다면, 어떻게 실천하실 것 같습니까?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-43",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신이 얻을 수 있는 특별한 이득에는 무엇이 있습니까?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-44",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 위험에 대한 가능성을 감소시키고 싶으신가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-45",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신이 이 변화를 통해 얻기를 기대하는 세 가지 이점은 무엇인가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-46",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신에게 얼마나 이 변화가 중요한가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-47",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신에게 이 변화가 얼마나 필요한가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-48",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이제 당신은 어떤 일을 할 것 같나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-49",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신에게 무엇이 첫 번째 단계가 될까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-50",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "아무 계획이라도 갖고 계신 것이 있으신가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-51",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "무엇을 할 의도를 가지고 계신가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-52",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "지금까지 여러분의 식단과 운동의 한 측면에 대해 살펴보았는데, 다들 본인의 식습관과 운동에 대해 어떻게 생각하시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-53",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "우리가 여기까지 온 시점에서, 이제 무엇을 하고 싶으신지 궁금해요.",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-54",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "살을 빼려고 계속 노력해봤지만 겨우 몇 파운드밖에 안 빠져요. 게다가 다시 살이 쪄요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "체중을 감소한다는 것은 참 어려운 일이에요. 체중을 감량하려면 체중을 관리할 수 있고 당뇨병으로부터 회복하는 것 이외에 또 어떤 이점이 있을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-55",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "살을 빼려고 계속 노력해봤지만 겨우 몇 파운드밖에 안 빠져요. 게다가 다시 살이 쪄요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "체중을 감소한다는 것은 참 어려운 일이에요. 체중을 감량하려면 체중을 관리할 수 있고 당뇨병으로부터 회복하는 것 이외에 또 어떤 이점이 있을까요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "살을 빼게 되면 제 자신이 더 낫게 느껴질 거에요. 전 한 번도 날씬해 본 적이 없어서 어떤 모습이 되길 원하는지 알 수 없지만 이렇게까지 뚱뚱하지는 않겠죠. 제 아이들도 지금 이런 뚱뚱한 저에 대해 걱정하고 있어서 죄책감을 많이 느끼고 있어요,"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "살을 빼야 할 많은 이유가 있는 것 같네요. 가장 먼저 무엇을 하면 좋을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-56",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "살을 빼려고 계속 노력해봤지만 겨우 몇 파운드밖에 안 빠져요. 게다가 다시 살이 쪄요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "체중을 감소한다는 것은 참 어려운 일이에요. 체중을 감량하려면 체중을 관리할 수 있고 당뇨병으로부터 회복하는 것 이외에 또 어떤 이점이 있을까요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "살을 빼게 되면 제 자신이 더 낫게 느껴질 거에요. 전 한 번도 날씬해 본 적이 없어서 어떤 모습이 되길 원하는지 알 수 없지만 이렇게까지 뚱뚱하지는 않겠죠. 제 아이들도 지금 이런 뚱뚱한 저에 대해 걱정하고 있어서 죄책감을 많이 느끼고 있어요,"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "살을 빼야 할 많은 이유가 있는 것 같네요. 가장 먼저 무엇을 하면 좋을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-57",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "살을 빼려고 계속 노력해봤지만 겨우 몇 파운드밖에 안 빠져요. 게다가 다시 살이 쪄요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "체중을 감소한다는 것은 참 어려운 일이에요. 체중을 감량하려면 체중을 관리할 수 있고 당뇨병으로부터 회복하는 것 이외에 또 어떤 이점이 있을까요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "살을 빼게 되면 제 자신이 더 낫게 느껴질 거에요. 전 한 번도 날씬해 본 적이 없어서 어떤 모습이 되길 원하는지 알 수 없지만 이렇게까지 뚱뚱하지는 않겠죠. 제 아이들도 지금 이런 뚱뚱한 저에 대해 걱정하고 있어서 죄책감을 많이 느끼고 있어요,"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "살을 빼야 할 많은 이유가 있는 것 같네요. 가장 먼저 무엇을 하면 좋을까요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "저도 제가 너무 많이 먹는다는 사실을 알고있어요. 특히 스트레스 받을 때 그래요. 가끔은 제 자신을 위해서 가족과 식사를 할 거에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "식단 변화가 중요한 첫 단계네요. 당신이 관심있을 만한, 혹은 관심 없을 수도 있을 한 가지 대안이 제게 있어요. 영양사에게 당신을 의뢰하면 당신에게 가장 적합할 만한 식단을 짤 수 있도록 도와드릴 수 있을 거예요. 여기에 대해 어떻게 생각하시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-58",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 필요한 건 약이에요. 악의가 있어서 이러는 건 아니고, 저는 더 이상 이전처럼 여기에 자주 오지 않을 거에요. 수면에 대해 애기하는 것이 도움이 될 거라고 생각하진 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "수면 문제를 해결하고싶으시군요. 그리고 약을 복용하는 것이 가장 좋은 방법이라고 생각하시는 것 같아요. 많약 괜찮으시면 의사 선생님께서 제게 당신을 의뢰하신 이유에 대해 듣고싶어요.",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-59",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 필요한 건 약이에요. 악의가 있어서 이러는 건 아니고, 저는 더 이상 이전처럼 여기에 자주 오지 않을 거에요. 수면에 대해 애기하는 것이 도움이 될 거라고 생각하진 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "해야 할 다른 일들이 굉장히 많음에도 불구하고 오늘 이렇게 시간을 내셨어요. 혹시 수면에서의 변화가 당신에게 얼마나 중요한지 0점(전혀 중요하지 않음)에서 10점(가장 중요함)까지 중에서 몇 점에 위치하는지 여쭤봐도 될까요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "4점 정도요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "중간 정도네요. 무엇이 2점이 아닌 4점으로 만들었나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-60",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 필요한 건 약이에요. 악의가 있어서 이러는 건 아니고, 저는 더 이상 이전처럼 여기에 자주 오지 않을 거에요. 수면에 대해 애기하는 것이 도움이 될 거라고 생각하진 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "약물치료가 수면 문제에 분명히 도움이 될 텐데 왜 이런 변화들이 필요한지 의아하실거에요. 잠깐 5년 뒤의 미래에 대해 생각해볼 수 있을지 궁금해요. 자, 수면과 관련해서 다른 어떠한 변화도 만들어내지 않기ㅗㄹ 결정했다고 가정합시다. 당신의 건강상태는 어떨까요? 수면 행동에서 변화하기로 결정했다면 당신의 건강상태는 어떻게 달라질까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-61",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 저번 주에 선생님이 제시한 다섯 개의 직업 중 한 곳을 지원을 했어요. 직업을 갖는 것은 저에게 정말 중요해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신에게 직업을 구하는 것이 정말 중요하다고 들었어요. 그렇게 말하면서, 그 목록에 있는 다섯 개의 직업 중 한 곳만 지원을 했어요. 그 목록을 당신에게 제가 제시하면서 너무 앞서가려고 했던 것 같네요. 만약 당신이 괜찮다면 직업을 구하는 데 무엇이 더 당신에게 효과적일지에 대해 이야기하고 싶어요. 그리고 우리가 설저한 계획들 중 무엇이 효과가 없었는지에 대해서도 알아보고 싶네요.",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-62",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 저번 주에 선생님이 제시한 다섯 개의 직업 중 한 곳을 지원을 했어요. 직업을 갖는 것은 저에게 정말 중요해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "저는 당신이 0점에서 10점 중 직업을 구하는 당신에 능력에 대해 얼마나 자신감을 가지고 있는지 당신의 이야기를 들어보고싶네요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "5점 정도에요"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그렇다면 당신은 직업을 구하는 것에 대해 어느정도 자신감이 있으시네요. 무엇이 당신의 자신감을 3점이 아니라 5점으로 만들었나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-63",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "변화 계획에 방해가 되는 공휴일을 포함하여 지난 몇 달 동안 많은 일들이 있었고 당신에게 좌절을 줬네요. 0점(전혀 자신 있지 않음)에서 10점 (매우 자신있음) 척도에서 변화를 다시 시도하기 위한 당신의 능력에 대해 당신은 얼마나 자신이 있나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "4점 정도인 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그렇다면 변화를 하는 것이 당신에 중요한 반면, 최근의 경험으로 인해 당신은 변화를 다시 일으키는 것에 대해서는 자신감이 없으시군요. 4점에서 7점으로 자신감을 높이기 위해서는 어떤 상황이 일어나야 할까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-64",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 잠시 변화를 시도했던 이전 행동으로 돌아갔었어요. 그것이 당신을 걱정하게 만들고 있어요. 지금 상태를 우지하는 것의 장점고 단점은 어떤 것들이 있을까요? 변화를 위한 노력들을 다시 시작하는 것의 장점과 단점에는 어떤 것들이 있을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-65",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "혹시 7개월 동안 당신의 계획에서 성공적이었을 때 스스로에 대해 무엇을 배웠는지 이야기해줄 수 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-66",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 치료에서 진전을 이루었다고 진짜 그렇게 생각합니다. 시설이 아닌 다른 곳에서 더 시간을 보낼 준비가 되어 있어요. 저는 이제 이 중독을 통제할 수 있어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "회복에 대한 당신의 과거 경험들에 대해 이야기해주세요. 그리고 어떻게 회복이 효과가 있었는지 당신이 알고 있는 것에 대해서도요. 그러한 정보가 지금 현재 당신의 선택에 어떤 도움을 줄 수 있을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-67",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "내가 어떤 노력을 하는지는 중요하지 않아요. 저는 절대로 금연에 성공하지 못 할 거에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "현재 상태에서 당신은 금연에 성공할 것이라는 상상을 하기가 매우 어려울 거에요. 그럼에도 불구하고 당신이 어떤 계기를 통해 금연에 성공하게 된 것을 상상해보았을 때, 지금과 비교해서 당신의 인생에는 어떠한 변화가 일어날까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-68",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 아이들이 있는 집에서 흡연을 했다는 사실을 믿을 수 없어요. 저는 나쁜 부모에요. 만약 제 아이들이 천식이나 다른 병에 걸리게 된다면 그것은 전적으로 제 책임이에요. 왜 아내가 저를 떠났는지 알 수 있죠. 도대체 부모가 얼마나 쓰레기면 아이들이 옆에 있을 때 담배를 피울 수 있을까요? 더욱 용납할 수 없는 건 제가 그런 행동을 그만두지 못한다는 거에요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "만약 당신이 금연에 성공하게 된다면 아이들의 관계에서 어떤 변화들이 일어날까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-69",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 아이들이 있는 집에서 흡연을 했다는 사실을 믿을 수 없어요. 저는 나쁜 부모에요. 만약 제 아이들이 천식이나 다른 병에 걸리게 된다면 그것은 전적으로 제 책임이에요. 왜 아내가 저를 떠났는지 알 수 있죠. 도대체 부모가 얼마나 쓰레기면 아이들이 옆에 있을 때 담배를 피울 수 있을까요? 더욱 용납할 수 없는 건 제가 그런 행동을 그만두지 못한다는 거에요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 정말 좋은 부모가 되기 위해서 헌신적인 노력을 하고 있어요. 이러한 가족에 대한 헌신적인 사랑처럼 당신이 금연을 하는 데 있어서 도움이 될만한 당신만의 강점은 또 어떤 것이 있을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-70",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 어떤 것을 좋아하는지에 대해서 아무런 생각도 떠오르지 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "이혼하기 전 당신은 어떤 활동을 즐겨 했나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-71",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 어떤 것을 좋아하는지에 대해서 아무런 생각도 떠오르지 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신에게 즐거운 것을 찾는 일이 얼마나 어려운 일인지 알고 있어요. 우리가 이번 기회에 과거 기억으로 돌아가 당신이 이혼하기 전에 어떤 특정 활둉을 했을 때 즐거웠는지에 대해 생각해보는 것도 나쁘지 않다고 생각해요. 그 당시 당신은 어떤 것에 즐거움을 느꼈나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-72",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 발표를 하게 되면 분명히 바보같은 말만 하게 될거에요. 다른 친구들은 저를 비웃겠죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 것이 수업 시간에 발표할 때 덜 긴장하게 만들어줄 수 있겠나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-73",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제 인생은 교통사고 이후로 완전히 산산조각 났어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그 사고 이후 당신의 삶이 어떻게 악화되었는지 조금 말해줄 수 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-74",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 치료에 대해 어떠한 걱정도 갖고 있지 않아요. 외상 후 스트레스 장애로 인해 제 인생은 망가졌고, 저는 과거의 저처럼 돌아가기 위해선 어떠한 과정도 마다하지 않을 거에요.  "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "PTSD 치료에 대해 당신이 걱정하고 있는 것을 한 번 말씀해주세요. ",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-75",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 치료에 대해 어떠한 걱정도 갖고 있지 않아요. 외상 후 스트레스 장애로 인해 제 인생은 망가졌고, 저는 과거의 저처럼 돌아가기 위해선 어떠한 과정도 마다하지 않을 거에요.  "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "하지만 이러한 치료를 받는 많은 사람들이 실제로 치료를 받아보면 본인들의 예상보다 더 힘들다고 느껴요. 만약 당신에게도 이러한 어려움이 찾아온다면 이러한 치료를 계속 받는 데 변함없이 확신이 설까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-76",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 매일 처방된 약을 복용해 오고 있어요. 그것과 관련해서는 어떤 문제도없어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "만약 괜찮으시다면 당신이 약물 복용을 하지 않았던 경우에 대해서 같이 얘기 해보고 싶군요. ",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-77",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 매일 처방된 약을 복용해 오고 있어요. 그것과 관련해서는 어떤 문제도없어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "만약 당신만 괜찮다면 몇 분간만이라도 당신이 과거 약을 복용하는 데 어떠한 방해 요소들이 있었는지에 대해서 얘기해보고 싶어요.",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-78",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제 담당 사례관리자가 양로원에서 일하고 있기 때문에 저를 거기로 데려가고싶은거에요. 저는 그녀가 제 약에다가 독을 첨가하고 있다고 생각해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 양로원에서 지내는 것이 적합하다고 생각하지 않고 그와 같은 제안을 한 담당 사례 관리자의 이유를 듣고 싶어 하고 있어요. 그렇다면 당신이 지내는 장소를 선정함에 있어서 어떤 것들이 중요하다고 생각하나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-79",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제 담당 사례관리자가 양로원에서 일하고 있기 때문에 저를 거기로 데려가고싶은거에요. 저는 그녀가 제 약에다가 독을 첨가하고 있다고 생각해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "양로원 같은 시설에 들어가 살 때 얻을 수 있는 혜택은 무엇이 있을까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-80",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이 정보에 대해서 어떻게 생각하시나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-81",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이러한 차이를 해결하기 위해서 우리는 어떻게해야할까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-82",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "간 질환을 가지고 살아가는 데 어떤 어려움이 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-83",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "이 집단에 대해 여러분이 가진 기대와 걱정에는 어떤 것이 있나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-84",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "어떤 점에서 약물과 알코올 사용이 여러분 삶에 영향을 미쳤나요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-85",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 문제가 있다는 것을 인정해요. 하지만 약물남용 치료가 필요하지는 않아요. 여기 있는 사람들은 모두 나보다 심한 사람들이에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그렇다면 당신이 가진 문제가 어떤 유형인지 조금 더 설명해주시겠어요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-86",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 문제가 있다는 것을 인정해요. 하지만 약물남용 치료가 필요하지는 않아요. 여기 있는 사람들은 모두 나보다 심한 사람들이에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그렇다면 무엇이 당신에게 도움이 될까요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-87",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "만일 이 강박증이 치료된다면 어떻게 하고 싶으세요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "O-88",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "만일 이 강박증이 치료된다면 어떻게 하고 싶으세요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "강박증이 치료되면 더 당당하게 제 실력을 발휘할 수 있겠죠."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당당히 본래의 능력을 발휘할 수 있을 것 같군요. 그게 가장 큰가요?",
+				"technique": [
+					"open questioning"
+				]
+			}
+		]
+	}
+]

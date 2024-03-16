@@ -1,0 +1,1494 @@
+[
+	{
+		"dialogue_id": "R-0",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 말씀해주세요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "뭘 알고싶으시죠? 전 그것에 대해 할 말이 별로 없는데요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 할 이야기가 별로 없으시군요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. 선생님이 무엇을 알고 싶어 하는지 모르겠어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "이곳에 오늘 무슨 일로 오셨는지 제게 말씀해 주세요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그래요. 음주운전으로 체포되었는데, 여기 와서 치료가 필요하다는 사실도 알게되었어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "음주가 당신을 원하지 않는 곳에 오게 하는군요. 그리고 치료가 필요하다는 사실도 알게 되었군요",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-1",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 말씀해주세요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "뭘 알고싶으시죠? 전 그것에 대해 할 말이 별로 없는데요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "음주에 대해 할 이야기가 별로 없으시군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-2",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "최근 담배가 늘면서 이대로 괜찮은가 싶어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담배 양이 늘어서 이대로 계속 늘면 어쩌나 생각하시는군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-3",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "기분이 계속 울적해서 어떻게든 하고 싶어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "기분이 계속 울적해서 어떻게든 스스로 좋아지게 하고 싶다는 말씀이군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-4",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "계속 졸리기만 해서 봄이라 그렇구나 싶지만, 휴일이어서 어제 늦게까지 자다가 이런저런 일을 하다 보니 밤이 됐는데 두드러기가 났더라구요. 자주 그러곤 하는데, 피곤해져서 그런가 싶기도 했지만, 나쁜 병에 걸린건 아닌가 싶고, 피곤한데도 잠이 안 오더라구요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "어젯밤에 몸이 안 좋은데 두드러기까지 났고, 엊그제부터 잠을 못 잤군요. 어젯밤엔 건강을 걱정하다 잠을 못 잤구요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-5",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "다들 금연을 하니 끊고 싶다는 생각도 들긴 하지만, 끊을 마음은 안 생기시는군요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "식사 후나 술을 마실 때 운전할 때 피우고 싶어져요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "식사 후나 운전할 때 피우고 싶다는 말이군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-6",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "가족들에게 지적당하거나 운동하다가 힘들 때 담배 탓인가 싶어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "가족들에게 지적당할 때 운동하다가 숨이 찬 적이 있으시군요. 예전에 비해서 숨이 많이 차시는 군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-7",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "좀 전에 줄인다고 했는데 줄일 수 있으시겠어요? 줄일 자신이 얼마나 있으세요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "글쎄요. 내일 당장 줄이라고 하면 자신 없어요. 시간을 충분히 갖고 줄일 수 있을 것 같아요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "내일부터는 힘들고 10년이나 15년 후면 30~40 정도는 줄일 수 있는 거군요.",
+				"technique": [
+					"reflection"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "10년이나 들이고싶진 않아요. 반년 정도?"
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-8",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "3년 전까지는 전혀 신경 쓰지 않고 외식을 하셨군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "몸무게가 가장 많이 나간게 85kg이었어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "85kg이었군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-9",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "3년 전까지는 전혀 신경 쓰지 않고 외식을 하셨군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "몸무게가 가장 많이 나간게 85kg이었어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "85kg이었군요. 지금 80kg이니까 5kg가 줄었네요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그렇죠."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "85kg이 나간건 언제죠?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "3~4년 전에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "3~4년 전에는 매일 외식을 해서 몸무게도 가장 많이 나갔지만, 최근 3년간은 적어도 일주일에 한 번은 9시까지 들어가서 부인께서 차려주는 밥을 드셔서 5kg나 빠지셨다는 거군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-10",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "3년 전까지는 전혀 신경 쓰지 않고 외식을 하셨군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "몸무게가 가장 많이 나간게 85kg이었어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "85kg이었군요. 지금 80kg이니까 5kg가 줄었네요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그렇죠."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "85kg이 나간건 언제죠?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "3~4년 전에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "3~4년 전에는 매일 외식을 해서 몸무게도 가장 많이 나갔지만, 최근 3년간은 적어도 일주일에 한 번은 9시까지 들어가서 부인께서 차려주는 밥을 드셔서 5kg나 빠지셨다는 거군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "빠진 것도 있긴 하지만, 80kg은 넘지 말아야 된다고 의식적으로 생각하고 있어요. 역시 85kg 때는 힘들었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "힘들었군요. '이건 아니다' 싶으셨군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-11",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "3년 전까지는 전혀 신경 쓰지 않고 외식을 하셨군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "몸무게가 가장 많이 나간게 85kg이었어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "85kg이었군요. 지금 80kg이니까 5kg가 줄었네요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그렇죠."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "85kg이 나간건 언제죠?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "3~4년 전에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "3~4년 전에는 매일 외식을 해서 몸무게도 가장 많이 나갔지만, 최근 3년간은 적어도 일주일에 한 번은 9시까지 들어가서 부인께서 차려주는 밥을 드셔서 5kg나 빠지셨다는 거군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "빠진 것도 있긴 하지만, 80kg은 넘지 말아야 된다고 의식적으로 생각하고 있어요. 역시 85kg 때는 힘들었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "힘들었군요. '이건 아니다' 싶으셨군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네 몸도 무겁구요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그렇군요. 목표는 80kg이면 되는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-12",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "안녕하세요? 걱정되는 일이 있나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "최근 담배가 늘었는데, 이대로 괜찮은가 하는 생각이 들어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담배양이 늘어서 이대로 계속 늘면 어떻게 하나 생각하신다구요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-13",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "안녕하세요? 걱정되는 일이 있나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "최근 담배가 늘었는데, 이대로 괜찮은가 하는 생각이 들어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담배양이 늘어서 이대로 계속 늘면 어떻게 하나 생각하신다구요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "예전부터 그랬나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "주변 사람들은 다 끊었어요. 저만 계속 피우고 있죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "주변에 끊는 사람이 늘어나서 최근 드러 끊고 싶어졌다는 거군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-14",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "안녕하세요? 걱정되는 일이 있나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "최근 담배가 늘었는데, 이대로 괜찮은가 하는 생각이 들어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담배양이 늘어서 이대로 계속 늘면 어떻게 하나 생각하신다구요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "예전부터 그랬나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "주변 사람들은 다 끊었어요. 저만 계속 피우고 있죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "주변에 끊는 사람이 늘어나서 최근 드러 끊고 싶어졌다는 거군요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "끊을 생각이 잘 안들어요. 계기가 없다고나 할까."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "끊을 생각이 잘 안든다, 친구들이 끊어서 끊고 싶기는 한데, 끊을 생각이  잘 안 든다는 거죠. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-15",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "안녕하세요? 걱정되는 일이 있나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "최근 담배가 늘었는데, 이대로 괜찮은가 하는 생각이 들어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담배양이 늘어서 이대로 계속 늘면 어떻게 하나 생각하신다구요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "예전부터 그랬나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "주변 사람들은 다 끊었어요. 저만 계속 피우고 있죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "주변에 끊는 사람이 늘어나서 최근 드러 끊고 싶어졌다는 거군요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "끊을 생각이 잘 안들어요. 계기가 없다고나 할까."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "끊을 생각이 잘 안든다, 친구들이 끊어서 끊고 싶기는 한데, 끊을 생각이  잘 안 든다는 거죠. 언제 피우고 싶나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "식후나 술 마실 때, 운전할 때 피우고싶어져요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "식후나 술 마실 때, 운전할 때 피우고 싶군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-16",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "안녕하세요? 걱정되는 일이 있나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "최근 담배가 늘었는데, 이대로 괜찮은가 하는 생각이 들어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담배양이 늘어서 이대로 계속 늘면 어떻게 하나 생각하신다구요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "예전부터 그랬나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "주변 사람들은 다 끊었어요. 저만 계속 피우고 있죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "주변에 끊는 사람이 늘어나서 최근 드러 끊고 싶어졌다는 거군요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "끊을 생각이 잘 안들어요. 계기가 없다고나 할까."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "끊을 생각이 잘 안든다, 친구들이 끊어서 끊고 싶기는 한데, 끊을 생각이  잘 안 든다는 거죠. 언제 피우고 싶나요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "식후나 술 마실 때, 운전할 때 피우고싶어져요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "식후나 술 마실 때, 운전할 때 피우고 싶군요. 그 밖에 어떨 때 피우고 싶으세요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "빠칭코에서 돈을 땄을 때요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "식사 후, 운전할 때, 빠칭코에서 돈을 땄을 때 그 밖에 더 있나요? ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "잠자기 전후엔 반드시 피워요, "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "식사 후나 잠자기 전후에, 운전할 때, 빠칭코를 할 때는 꼭 피우고 싶군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-17",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "담배 때문에 쓸 용돈이 줄어들어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담뱃값이 비싸졌죠.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-18",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "당장이라도 끊을 수 있다면 끊고싶어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "끊을 수 있는 방법이 있으면 끊고싶고, 그런 방법을 해보고 싶은 거군요.",
+				"technique": [
+					"reflection"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그렇습니다."
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-19",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "만일 이 강박증이 치료된다면 어떻게 하고 싶으세요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "강박증이 치료되면 더 당당하게 제 실력을 발휘할 수 있겠죠."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당당히 본래의 능력을 발휘할 수 있을 것 같군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-20",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "만일 이 강박증이 치료된다면 어떻게 하고 싶으세요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "강박증이 치료되면 더 당당하게 제 실력을 발휘할 수 있겠죠."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당당히 본래의 능력을 발휘할 수 있을 것 같군요. 그게 가장 큰가요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네 그렇습니다. 그 밖에 걱정하느라 보내던 시간을 다른 일에 쓴다던가. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "시간을 더 효과적으로 쓸 수 있을 거란 거군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-21",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "술을 마시면 기분이 좋아져요. 다른 사람들도 많이 마시구요. 제가 알코올 중독인가요?"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "다들 술을 마시고 지금까지 계속 마셨어도 특별히 건강이 나쁘지 않은데, 결과가 이상하단 생각이 드신다는 거군요.",
+				"technique": [
+					"reflection"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그렇죠."
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-22",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "읽는 것 자체가 무섭고 생각하기도 싫지만, 어떻게 할까, 어떻게 하면 좋을까라고 열심히 생각하면서 읽은 거군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-23",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "읽는 것 자체가 무섭고 생각하기도 싫지만, 어떻게 할까, 어떻게 하면 좋을까라고 열심히 생각하면서 읽은 거군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. 읽긴 했지만 너무 무서웠어요. 무서워서 너무 불안한 마음에 간호사들을 많이 괴롭힌 거 같아요. 불안해서요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "이런 생각을 하지 않고, 읽지 않아도 된다면 읽을 필요 없을 텐데, 제가 하라고 하니까 행동에 옮겨야 한다는 생각에 읽은 거군요. 읽어 보고 나서 할 생각을 하니 무서웠던 거죠. 읽기만 해도 무서운데, 막상 해야한다고 생각하니 더 무서워진 거군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-24",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "술자리에서 기분이 좋다 보니 보통 맥주 1병 마시던 걸 3병 마신거죠. 양이 늘어서 일시적으로 간에 부하가 걸린 건가 싶어요. 그래서 이런 수치가 나온 게 아닐까요?"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "다음날 정기 검진이 있는 건 아셨죠?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. 알고 있었어요. 그렇지만 빠질 수 없는 자리라서요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "다음날 검진은 알고 있었고, 물론 술자리도 예정된 거였지만, 검진이란 걸 알면서도 과음하신 거군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-25",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "그렇지만 문제없어요. 술 마시면 기분 좋아져요. 다들 마시고요. 알코올 중독이라고 생각하세요? "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "다들 술을 마시고, 지금까지 계속 마셔도 특별히 건강이 나쁘지 않은데 검사 결과가 이상하다는 거군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-26",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "그렇지만 문제없어요. 술 마시면 기분 좋아져요. 다들 마시고요. 알코올 중독이라고 생각하세요? "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "다들 술을 마시고, 지금까지 계속 마셔도 특별히 건강이 나쁘지 않은데 검사 결과가 이상하다는 거군요. ",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "네. 어디가 이상하단 생각은 못했어요. 일상생활이나 일도 잘 하고 있고요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "운 나쁘게 점점 수치가 나빠진 것일 뿐 믿을 수 없다는 거군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-27",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "선생님처럼 손을 편하게 올려놓고, 물건들도 편하게 잡고 싶어요. 완치된 사람들 얘기를 들어보면, 치료 마지막 단계까지 다 했대요. 어떻게 했냐고 물으니 그냥 할 수 있었대요. 믿기 힘들더라구요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "지금 만지고 책을 읽는 것, 그걸 한다는 생각만 해도 무섭고 이런 얘기나 제가 만지는 것도 무섭지만, 마지막 단계를 통과한 사람들처럼 되고 싶지요. 하지만 그런 생각만으로도 무섭다는 거군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-28",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "선생님처럼 손을 편하게 올려놓고, 물건들도 편하게 잡고 싶어요. 완치된 사람들 얘기를 들어보면, 치료 마지막 단계까지 다 했대요. 어떻게 했냐고 물으니 그냥 할 수 있었대요. 믿기 힘들더라구요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "지금 만지고 책을 읽는 것, 그걸 한다는 생각만 해도 무섭고 이런 얘기나 제가 만지는 것도 무섭지만, 마지막 단계를 통과한 사람들처럼 되고 싶지요. 하지만 그런 생각만으로도 무섭다는 거군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그렇지만 가장 더러운 용변까지는 못 만져도 괜찮아요. 그래도 이것 은 만질 수 있게 되면 좋겠는데...너무 힘들어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그렇죠. 그렇게 되면 좋겠죠.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "계속 그 생각만 하고, 하루 종일 아무 것도 하기 싫어서 거의 누워만 있거든요. 그래서 너무 힘들어요. 몸도 나른하고 ..."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "생각만 해도 점진 피곤해지고, 그린 상대가 계속 되다보니. 아 우려 놓은 것을 다른 데로 옮길 수 없고, 여기저기 다 더립다는 성과에 머리가 이상해질 것 같아서 무섭죠. 그래서 씻어도 소용없고요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-29",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "다른 사람과 같이 있는 시간을 많이 만든 거군요. 자신이 의도적으 로 그렇게 했군요. 그리고 그럴 때는 담배를 피우지 않기로 하셨구요. 다른 사람과 오래 같이 있을 수 있겠어요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "가족들은 협조해 줄 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그 밖에는 누가 협조해 줄까요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "가족들과 회사동료들이요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "가족과 회사동료들이군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-30",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "다른 사람과 같이 있는 시간을 많이 만든 거군요. 자신이 의도적으 로 그렇게 했군요. 그리고 그럴 때는 담배를 피우지 않기로 하셨구요. 다른 사람과 오래 같이 있을 수 있겠어요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "가족들은 협조해 줄 것 같아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "그 밖에는 누가 협조해 줄까요?",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "가족들과 회사동료들이요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "가족과 회사동료들이군요.",
+				"technique": []
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "그 밖에 담배를 끊은 친구들이요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "담배 끊은 친구들, 가족들, 회사동료들과 시간을 보내고, 한 달 정도 지나면 끊을 수 있다고 생각하시는군요.",
+				"technique": [
+					"reflection"
+				]
+			},
+			{
+				"speaker": "내담자",
+				"utterance": "전에 한 번 됐으니까 어쩌면 될 수 있을 것 같아요."
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-31",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "아내는 제 식습관을 두고 자꾸 잔소리를 해요. 저를 여기까지 오게 만들었다니 믿을 수가 없네요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신이 여기에 있다는 사실을 믿을 수 없다는 말씀이시군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-32",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "사람들은 제가 담배를 완전히 끊기를 바라지만, 저는 완전히 끊을 생각이 없어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "완전히 담배를 끊을 준비가 아직 되지 않았고 또 동시에 다른 사람들이 걱정하고 있다는 사실도 잘 알고 계시네요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-33",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "아내가 제 콜레스테롤 수치에 대해서 너무 걱정하고 있는데 왜 글너지 도무지 이해가 안 돼요. 결과가 경계 수준에서 높은 편이라고 나왔지, 높은 것이 아니었는데 말이죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "아내가 당신의 콜레스테롤에 대해서 불필요하게 걱정하고 있네요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-34",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "지금처럼 계속 이렇게 먹고 싶네요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "지금 당장은 당신의 식습관이 염려되지 않는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-35",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "지금처럼 계속 이렇게 먹고 싶네요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "사람들이 당신의 체중에 대해 과잉반응하는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-36",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "지금처럼 계속 이렇게 먹고 싶네요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "다이어트가 당신에게 중요한 문제는 아니기도 하면서 동시에 저를 만나러도 오셨네요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-37",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "지금처럼 계속 이렇게 먹고 싶네요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "음식을 좋아하시기도 하고 또 음식을 먹는 것이 친구들과의 만남의 중요한 부분이기 때문에 변화를 주는 것이 어려우시겠어요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-38",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 여기에 왜 와있는지 정말 모르겠어요. 하필이면 운이 나빠서 체포된 거에요. 그 사람들이 왜 그렇게까지 화가 났는지 모르겠어요. 그날은 게임데이였어요. 모두가 다 술을 마신다고요. 제가 여기에는 학장님이 가라고 말씀하셔서 온 것이지만, 전 정말 오기 싫었어요. 하지만 말썽 부리고 싶진 않아요. 이젠 여기까지 왔기 때문에 제 행동을 어떻게 변화시켜야 하는지 당신에게 들어야 해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "같은 상황에 대해 당신과 학장님이 서로 다른 관점을 갖고 있는 것 같네요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-39",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 여기에 왜 와있는지 정말 모르겠어요. 하필이면 운이 나빠서 체포된 거에요. 그 사람들이 왜 그렇게까지 화가 났는지 모르겠어요. 그날은 게임데이였어요. 모두가 다 술을 마신다고요. 제가 여기에는 학장님이 가라고 말씀하셔서 온 것이지만, 전 정말 오기 싫었어요. 하지만 말썽 부리고 싶진 않아요. 이젠 여기까지 왔기 때문에 제 행동을 어떻게 변화시켜야 하는지 당신에게 들어야 해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "다른 학생들도 모두 술을 마신다는 점을 고려한다면 대학이 당신의 음주에 대해서는 너무 과잉반응했네요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-40",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 여기에 왜 와있는지 정말 모르겠어요. 하필이면 운이 나빠서 체포된 거에요. 그 사람들이 왜 그렇게까지 화가 났는지 모르겠어요. 그날은 게임데이였어요. 모두가 다 술을 마신다고요. 제가 여기에는 학장님이 가라고 말씀하셔서 온 것이지만, 전 정말 오기 싫었어요. 하지만 말썽 부리고 싶진 않아요. 이젠 여기까지 왔기 때문에 제 행동을 어떻게 변화시켜야 하는지 당신에게 들어야 해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "여기에 와야 할 이유를 정말 모르기도 하고 또 동시에 지금 처한 곤란에서 어떻게 하면 벗어날 수 있는지 알고 싶기도 하시군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-41",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제 검사 결과는 나왔습니까?"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "검사 결과에 대해 걱정되는 것이 있으신가요?",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-42",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "시간이 얼마나 걸리나요?"
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "심적으로 여유가 없으신가 봐요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-43",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 필요한 건 약이에요. 악의가 있어서 이러는 건 아니고, 저는 더 이상 이전처럼 여기에 자주 오지 않을 거에요. 수면에 대해 애기하는 것이 도움이 될 거라고 생각하진 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "수면 문제를 해결하고싶으시군요. 그리고 약을 복용하는 것이 가장 좋은 방법이라고 생각하시는 것 같아요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-44",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 필요한 건 약이에요. 악의가 있어서 이러는 건 아니고, 저는 더 이상 이전처럼 여기에 자주 오지 않을 거에요. 수면에 대해 애기하는 것이 도움이 될 거라고 생각하진 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "약물치료가 수면 문제에 분명히 도움이 될 텐데 왜 이런 변화들이 필요한지 의아하실거에요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-45",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 필요한 건 약이에요. 악의가 있어서 이러는 건 아니고, 저는 더 이상 이전처럼 여기에 자주 오지 않을 거에요. 수면에 대해 애기하는 것이 도움이 될 거라고 생각하진 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신에겐 약물치료가 효과적일 수 있는 대안일 것 같네요. 게다가 저와 함께 수면 문제에 대해 다루는 것이 당신에게 정말 유익을 줄 것인지 불확실하게도 느껴지시는 것 같고요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-46",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 저번 주에 선생님이 제시한 다섯 개의 직업 중 한 곳을 지원을 했어요. 직업을 갖는 것은 저에게 정말 중요해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신에게 직업을 구하는 것이 정말 중요하다고 들었어요. 그렇게 말하면서, 그 목록에 있는 다섯 개의 직업 중 한 곳만 지원을 했어요. 그 목록을 당신에게 제가 제시하면서 너무 앞서가려고 했던 것 같네요. 그리고 당신의 목표와 기대에 대해서는 충분한 이야기를 나누지 못했던 것 같아요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-47",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 저번 주에 선생님이 제시한 다섯 개의 직업 중 한 곳을 지원을 했어요. 직업을 갖는 것은 저에게 정말 중요해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 직업을 구하길 원하셨고 이 문제가 당신에게 정말 중요하기 대문에 이곳에 오셨어요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-48",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "공휴일 동안 당신의 계획에 대해 어려움을 겪었고 당신은 역행했다고 보고 있어요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-49",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "변화 계획에 방해가 되는 공휴일을 포함하여 지난 몇 달 동안 많은 일들이 있었고 당신에게 좌절을 줬네요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-50",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 많은 진전을 이룬 후 운동을 그만두게 된 것과 공휴일을 기념하는 음식들을 먹었던 것에 대해 낙심하고 있어요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-51",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 잠시 변화를 시도했던 이전 행동으로 돌아갔었어요. 그것이 당신을 걱정하게 만들고 있어요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-52",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 무슨 일이 일어났는지 잘 모르겠어요. 제가 정신을 차린 후엔 이미 2개월이 지났었고 저는 그동안 운동을 하지 않았어요. 그 후 저는 저의 식이계획을 무시하고 공유일을 기념하는 음식을 모두 먹었어요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 몇 달 동안의 행동들로 인해 낙심한 것으로 보이네요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-53",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 치료에서 진전을 이루었다고 진짜 그렇게 생각합니다. 시설이 아닌 다른 곳에서 더 시간을 보낼 준비가 되어 있어요. 저는 이제 이 중독을 통제할 수 있어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 어느정도 진전을 이루었고 치료에서의 성취에 대해서도 좋은 감정을 느끼고 있습니다. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-54",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 치료에서 진전을 이루었다고 진짜 그렇게 생각합니다. 시설이 아닌 다른 곳에서 더 시간을 보낼 준비가 되어 있어요. 저는 이제 이 중독을 통제할 수 있어요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 진심으로 회복을 위한 결심을 하였군요. 그리고 당신이 이룬 성취들에 대해 인지하고 있어요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-55",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "내가 어떤 노력을 하는지는 중요하지 않아요. 저는 절대로 금연에 성공하지 못 할 거에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 매우 위축되어 있는 것처럼 보이는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-56",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 어떤 것을 좋아하는지에 대해서 아무런 생각도 떠오르지 않아요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신에게 즐거운 것을 찾는 일이 얼마나 어려운 일인지 알고 있어요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-57",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 발표를 하게 되면 분명히 바보같은 말만 하게 될거에요. 다른 친구들은 저를 비웃겠죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "수업시간에 발표를 하게 된다면 친구들이 당신에 대해서 좋지 않게 생각할까봐 걱정을 하고 있군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-58",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제가 발표를 하게 되면 분명히 바보같은 말만 하게 될거에요. 다른 친구들은 저를 비웃겠죠. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "만약 다른 친구들이 당신이 발표할 때 절대 웃지 않는다는 확신이 있으면 수업에 좀 더 적극적으로 참여할 수 있을까요?",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-59",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 계속해서 약을 복용하고 있어요. 이와 관련하여 어떤 문제도 없죠. 단지 그녀가 요양원에서 일하고 있기 때문에 절 데려가고 싶은 것뿐이에요. 제가 먹는 약에 그 녀가 독을 타는 것 같아요. 이게 바로 제가 치료받을 때마다 바닥으로 떨어지는 이유죠, CIA가 저에게 처방해준 약은 많은 도움이 되었어요. 그 약물이 아마 해독제였을 거예요. "
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 지금 당신을 위해 일하고 있는 당담 사례관리자가 약에 독을 첨가하고 있다고 생각하고 있군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-60",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제 담당 사례관리자가 양로원에서 일하고 있기 때문에 저를 거기로 데려가고싶은거에요. 저는 그녀가 제 약에다가 독을 첨가하고 있다고 생각해요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 양로원이 당신에게 적합한 곳인지 확신이 안 서기 때문에 그와 같은 제안을 한 직원의 동기에 대해 질문하고 있는 것이군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-61",
+		"dialogue": [
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 집단 구성원들이 사용한 다른 약물에 관심이 있으시군요. ",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-62",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 여러분들과 달라요. 저는 나쁜 약물을 사용하지 않고, 단지 술만 마셔요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 알코올만 드시는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-63",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 여러분들과 달라요. 저는 나쁜 약물을 사용하지 않고, 단지 술만 마셔요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 알코올만을 사용하시기 때문에 이 집단에 포함될 수 없다고 생각하시는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-64",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "저는 여러분들과 달라요. 저는 나쁜 약물을 사용하지 않고, 단지 술만 마셔요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 집단 참여에 대해 말하고 있는 것으로 들리는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-65",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 문제가 있다는 것을 인정해요. 하지만 약물남용 치료가 필요하지는 않아요. 여기 있는 사람들은 모두 나보다 심한 사람들이에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 약물 남용 치료가 필요하지 않군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-66",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 문제가 있다는 것을 인정해요. 하지만 약물남용 치료가 필요하지는 않아요. 여기 있는 사람들은 모두 나보다 심한 사람들이에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "당신은 여기 있는 사람들과 다르다고 생각하고 계시는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	},
+	{
+		"dialogue_id": "R-67",
+		"dialogue": [
+			{
+				"speaker": "내담자",
+				"utterance": "제게 문제가 있다는 것을 인정해요. 하지만 약물남용 치료가 필요하지는 않아요. 여기 있는 사람들은 모두 나보다 심한 사람들이에요."
+			},
+			{
+				"speaker": "상담사",
+				"utterance": "즉 당신의 문제를 해결하기에 여기가 당신에게 적합한 곳이라고 확신하지는 않는군요.",
+				"technique": [
+					"reflection"
+				]
+			}
+		]
+	}
+]

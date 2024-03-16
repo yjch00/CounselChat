@@ -1,0 +1,3004 @@
+[
+    {
+        "id": 101,
+        "category": "자아/성격",
+        "context": "과거를 얘기하자면 심한 학교폭력과 왕따였고 그래서인지 그 이후로 혼자 남겨지는게 싫었고 누군가에게 의견얘기하는것도 무서웠어요 그때는 제 의견 얘기하면 늘 맞고 그랬으니까요 근데 그게 왜 안고쳐질까요.. 무언가를 하다가 제가 맞서야하는 상황이오면 그런 상황들이 불안하고 무서워요 그래서 늘 빨리 지나갔으면 좋겠다고 생각하고 그 상황자체를 얼른 피하고 싶어해요 할머니 아프셨을때 중환자실 계시다가 돌아가셨을때 그때도 장례식장 가기전에 너무 슬프고 무서웠는데 장례식장에서 영정사진 볼 생각에 그냥 이 순간이 빨리지나갔으면 했어요 저는 할머니 마지막모습도 못보겠다고 병실밖에 있었어요 내 소중한 사람이 마지막 숨을 쉬고 숨을 거두는것을 못보겠어서요 회피만 하는 제가 너무 싫어요 근데 이런저런 상황들에 이겨낼 자신이 없어요 어떡하면 좋을까요? 처음이 힘들다고 시작해보면 괜찮다고하는데 상황에 마주하는게 무서워요 불안하고 두려워요 평소 불안해하는게 심하고 작은 상황에도 크게 불안해하며 두려워해요 어떻게해야 회피하는 성격을 고칠 수 있을까요",
+        "turns": 19,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 상황이 심리적으로 가장 도전적이었나요?",
+                "utterance_en": "Hi, what was the most challenging situation you've been in psychologically recently?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제가 새로운 프로젝트에 팀원으로 참여하게 되었는데, 의견을 나누는 회의에서 제 생각을 말해야 할 때가 정말 도전적이었어요.",
+                "utterance_en": "I was part of a new project as a team member, and it was really challenging to speak up my thoughts in the meeting where we share our opinions.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 상황에서 자신의 의견을 표현하는 건 정말 어려울 수 있어요.",
+                "utterance_en": "It can be really hard to express your opinion in that situation.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 특히 과거에 제 의견을 말했을 때의 부정적인 경험들이 떠올라서 더 불안하고 무서웠어요.",
+                "utterance_en": "Yes, it made me more anxious and scared, especially because of the negative experiences I had in the past when I spoke up.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "과거의 경험 때문에 회의에서 의견을 나누는 일이 더욱 불안하게 느껴지셨군요.",
+                "utterance_en": "I see, so you feel more anxious about sharing your opinions in meetings because of your past experiences.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그래서 더욱 아무 말도 하지 못하고 조용히 있었어요.",
+                "utterance_en": "Yes, so I didn't say anything more and kept quiet.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "과거의 부정적인 경험이 현재의 행동에 영향을 주고 있음을 느끼고 계시는군요.",
+                "utterance_en": "I see that you are feeling that your past negative experiences are affecting your current behavior.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇습니다, 그런데 이제 그 영향으로부터 벗어나고 싶어요.",
+                "utterance_en": "It is, but I want to move on from that influence now.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "변화에 대한 용기를 내고 계시는군요.",
+                "utterance_en": "You're being courageous with your transformation.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 불안하고 두려운 마음을 어떻게 극복할 수 있을지 고민해보고 싶어요.",
+                "utterance_en": "Yes, I would like to explore how to overcome feelings of anxiety and fear.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "불안과 두려움을 극복하고자 하는 고민을 시작하셨네요.",
+                "utterance_en": "You have started to contemplate overcoming your anxiety and fear.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아직 구체적인 방법은 잘 모르겠지만, 작은 시도부터 해보고 싶어요.",
+                "utterance_en": "I'm not sure how yet, but I want to start with small attempts.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "작은 시도를 해보고 싶다고 생각하시는군요.",
+                "utterance_en": "I see you want to try something small.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 회의 때 한 번씩은 제 생각을 말해보려고요.",
+                "utterance_en": "Yes, I will try to speak my mind once in a while during the meeting.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "회의에서 본인의 생각을 말씀해보기로 결정하신 것, 용기 있는 선택이셨습니다.",
+                "utterance_en": "It's a brave choice to decide to speak up at the meeting.",
+                "label": "Affirm"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그 첫 시도가 어떻게 될지 모르겠지만, 시도라도 하는 게 중요하다고 생각해요.",
+                "utterance_en": "I don't know what that first line will be, but I think it's important to try.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "시도해보고 싶은 첫 번째 단계를 이야기해주실 수 있을까요?",
+                "utterance_en": "Can you talk me through the first step you want to try?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "조금이라도 긍정적인 피드백을 받을 수 있도록 의견을 준비해 가는 거예요.",
+                "utterance_en": "You prepare your comments so that you can get some positive feedback.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "의견을 준비해 가면서 긍정적인 피드백을 받고자 하는 생각을 하고 계시는군요.",
+                "utterance_en": "I see, you're preparing for a feedback session and want to receive positive feedback.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "category": "자아/성격",
+        "context": "뭐든 잘해야 하고 완벽하게 하고 싶은 마음이 커요 그래서 잘할 수 있다는 확신이 없으면, 자신이 없으면 시도조차 안 해요 '나는 이런 거 원래 못해'라고 하면서요 정말 이기적인 생각이죠... 이렇게 고민만 한 것 때문에 흘린 기회들이 자꾸 생각나요 결국 후회해요 그렇게 저는 아무것도 이룬 게 없어요... 이런 성격 때문에 앞으로 하고 싶은 일들이 많은데 뭐부터 해야 할지 모르겠어요 실패할까 봐 두려워요 잘못된 길일까 봐 정확한 길이 아닐까 봐요 사실 저는 사람들 시선이 무섭습니다 실패했을 때 사람들 시선을 받아낼 수 있을지도 모르겠어요 주변 사람들이 가진 기대나 시기 질투 같은 감정을 받아내기 힘들어요 변명같이 들리겠지만 뭐부터 해야 할지 모르겠어요 뭐 어떻게 해결해야 할지 모르겠어요 우선순위를 어떻게 정해야 할지도 모르겠어요 방법을 알려주세요",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 일들이 생기면서 오시게 된 건가요?",
+                "utterance_en": "Hello, what happened recently that made you come?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "요즘에는 뭐든 잘해야 한다는 부담감 때문에 시작조차 못 하는 경우가 많아요.",
+                "utterance_en": "Nowadays, there are so many things that we feel we have to be good at, that we don't even start.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 부담이 커져 오시게 된 것 같네요.",
+                "utterance_en": "I guess that burden grew and brought you here.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 저는 실패에 대한 두려움 때문에 어떤 결정도 쉽게 내리지 못하고 있어요.",
+                "utterance_en": "Yes, I am not able to make any decisions easily because of my fear of failure.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "실패를 피하고자 하는 마음이 결정을 내리는 것을 어렵게 만들고 있군요.",
+                "utterance_en": "It sounds like your desire to avoid failure is making it difficult for you to make decisions.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그렇습니다.",
+                "utterance_en": "Yes, indeed.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "실패에 대한 두려움을 조금이라도 줄일 수 있도록 도와줄 요소가 무엇일까요?",
+                "utterance_en": "What elements would help reduce the fear of failure even a little bit?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "실패를 경험으로 보고 그걸 배움의 기회로 삼을 수 있는 태도를 갖는 게 중요할 것 같아요.",
+                "utterance_en": "I think it's important to see failure as an experience and to be able to learn from it.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 태도를 갖기 위해 내담자님이 생각하시는 첫 번째 실행할 방법은 무엇인가요?",
+                "utterance_en": "What is the first action you think you can take to have that attitude?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "작은 일에서부터 시도해보고 그 결과를 긍정적으로 받아들이려 노력해 볼게요.",
+                "utterance_en": "I will try to start with small things and try to accept the outcome positively.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "작은 일부터 시작해 그 결과를 긍정적으로 받아들이려 하신다고요.",
+                "utterance_en": "You start with small things and try to accept the results positively.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그러면 점점 더 큰 일에도 도전할 수 있을 거라고 생각합니다.",
+                "utterance_en": "Yes, I think I can take on bigger and bigger things.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 작은 시도들을 통해 어떤 변화를 기대하시나요?",
+                "utterance_en": "What changes do you hope to see through those small attempts?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "작은 성공들을 통해 제 자신감을 조금씩 회복할 수 있을 것 같습니다.",
+                "utterance_en": "I think I can start to rebuild my confidence through small successes.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "작은 성공을 통해 자신감을 회복하길 기대하시는군요.",
+                "utterance_en": "I see you expect to regain your confidence through small successes.",
+                "label": "Simple Reflection"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "category": "자아/성격",
+        "context": "제 자신을 좋게 보려면 어떻게해야하나요? 여태껏 들으면서 자라온 말들, 겪어온 경험들이 쌓이면서 스스로에대한 부정적인 편견이 무의식 깊은 곳부터 들어찬 것만 같아요. 괜찮아졌다가도 몇주가 지나면 금방 위축되고 불안하고.. 특히 사람들과 있으면 나라는 사람이 너무 추해보이고 찌질해보여서 더 여유가 없어져 답답해요. 제가 분명 마냥 나쁜면만 있는 사람은 아닐텐데 사랑 받을 수 있다는 확신이 서질않아요. 이런 마음 때문에 하고 싶은 말도 자꾸만 삼키고 표현해도 별탈 없을 감정들을 혼자만 짊어지고 있다보니 너무 버겁고 힘들어요. 단순히 소심한 성격이라고 치부하기엔 저는 꽤나 활발한 성격이고 무엇보다 과거에 안그래도 예민한 성격인데 형제들로부터 들어온 비판하며, 오랫동안 겪어온 소외, 공감을 잘 못해주시는 부모님 등.. 최선을 다 해줬을 사람들을 탓하려는 건 아니지만 분명 제가 겪은 과거의 경험들 때문에 지금의 제가 이런 것만 같아요. 진심으로 마음이 제가 제 스스로에대해서 조금만 더 믿음과 확신을 가지고 당당해진다면 지금보다 몇배는 더 행복하고 건강하게 살 수 있을 것만 같은데..뭘해야할까요?",
+        "turns": 27,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 생각이나 감정이 자주 드셨나요?",
+                "utterance_en": "Hi, what thoughts or feelings have you been having lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "사실 매일같이 스스로에 대한 부정적인 생각이 많이 들어요. 특히 사람들과 어울릴 때 제 자신이 너무 초라하게 느껴져서요.",
+                "utterance_en": "I actually have a lot of negative thoughts about myself every day. Especially when I'm around people, I feel so pathetic.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "사람들 속에서 자신을 비하하는 경향이 있으신 것 같네요.",
+                "utterance_en": "It sounds like you have a tendency to put yourself down in the presence of people.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇습니다. 제가 어떤 상황에서든 자신감을 잃고 말았기 때문이에요.",
+                "utterance_en": "Yes, I did. It's because I lost my confidence in any situation.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자신감을 잃는 상황이 반복되어 마음속에 큰 무게를 느끼고 계시네요.",
+                "utterance_en": "It sounds like you've been in a situation where you've been losing confidence, and it's been weighing heavily on your mind.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 가끔은 그 무게가 너무 버겁게 느껴져서 숨 쉬기조차 어려워져요.",
+                "utterance_en": "Right, sometimes the weight of it all is so heavy that it's hard to even breathe.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 상황에서 위안을 찾거나 스스로를 진정시키기 위해 특정한 방법이 있나요?",
+                "utterance_en": "In those situations, do you have any specific ways to find comfort or calm yourself down?",
+                "label": "Closed Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아뇨, 사실 그 방법을 찾지 못해서 더욱 힘든 것 같아요.",
+                "utterance_en": "No, I actually think it's harder because I haven't found that way.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님께서는 스스로를 위로하거나 진정시킬 방법을 찾지 못해 더욱 고통스러움을 느끼고 계시는군요.",
+                "utterance_en": "It sounds like you are struggling to find ways to comfort or soothe yourself, which can make things even more difficult.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정확해요. 그 고통에서 벗어나고 싶지만 어떻게 해야 할지 모르겠어요.",
+                "utterance_en": "Yes, it's accurate. I want to be free of that pain, but I don't know how.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "현재의 고통에서 벗어나고자 하는 욕구가 있지만 그 방법을 찾는 것이 어려운 상태시군요.",
+                "utterance_en": "It sounds like you're feeling a strong desire to escape your current suffering, but are struggling to find a way to do so.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정말 그렇습니다. 저는 변화를 원하지만 시작점을 찾는 게 어렵네요.",
+                "utterance_en": "So true. I want to change but I find it hard to find a starting point.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "변화를 원하지만 어떻게 시작해야 할지 모르겠다고 느끼고 계시군요.",
+                "utterance_en": "It sounds like you're feeling ready for a change but not sure how to start.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 어디서부터 손을 대야 할지 막막해요.",
+                "utterance_en": "Yeah, I'm at a loss for where to even begin.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "현재 상황에서 어떤 작은 변화가 내담자님께서 느끼시기에도 가장 접근하기 쉬울까요?",
+                "utterance_en": "What small change in your current situation would be the most accessible for you to notice?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아마도 제가 스스로에게 조금 더 친절하게 대하는 연습부터 시작할 수 있을 것 같아요.",
+                "utterance_en": "Maybe I can start by practicing being a little kinder to myself.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스스로에게 조금 더 친절하게 대하는 연습부터 시작하고 싶으시군요.",
+                "utterance_en": "You want to start by practicing being a little kinder to yourself.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그 방법이 저를 변화시키는데 도움이 될 거라고 믿어요.",
+                "utterance_en": "Yes, I believe that method will help me change.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스스로에게 더 친절하게 대하려는 연습을 구체적으로 어떻게 하실 계획이신가요?",
+                "utterance_en": "How do you plan to practice being kinder to yourself?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제 자신에게 부정적인 생각이 들 때마다 그 생각을 긍정적인 생각으로 바꾸려고 노력해볼 거예요.",
+                "utterance_en": "I will try to change my negative thoughts into positive ones whenever I have them.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 과정에서 어려움을 경험한다면 어떻게 극복해보고 싶으신가요?",
+                "utterance_en": "If you experience any difficulties in the process, how would you like to overcome them?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "작은 목표를 달성했을 때 스스로를 칭찬하며 격려해보려고 해요.",
+                "utterance_en": "I will try to encourage myself by praising myself when I achieve small goals.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "목표를 달성했을 때 스스로를 칭찬하며 격려하고 싶으시군요.",
+                "utterance_en": "You want to encourage yourself by praising yourself when you achieve your goals.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇게 제 자신을 인정하며 앞으로 나아갈 수 있게 도움이 될 것 같아요.",
+                "utterance_en": "Yes, I think that would be helpful for me to acknowledge that about myself and move forward.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그렇게 자기 인정의 과정이 내담자님에게 어떤 의미를 가지게 되나요?",
+                "utterance_en": "How does that process of self-acknowledgement make sense for you?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제 자신을 긍정적으로 바라보면서 점차 자신감을 회복할 수 있을 것 같아요.",
+                "utterance_en": "I think I can gradually regain my confidence by looking at myself positively.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자신을 긍정적으로 바라보고자 하는 의지로 자신감을 회복해 나가고자 하시는군요.",
+                "utterance_en": "You want to recover your self-confidence by looking at yourself positively.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "category": "자아/성격",
+        "context": "어릴 때부터 조금만 힘들고 버겁다고 느껴지거나 상황이 제게 불리하다고 느껴지는 상황이 오면 자꾸 회피하려고만 해요... 물론 매번 회피하진 않았고 웬만하면 부딪혀 보려고 하는데 이상하게 나이가 들 수록 더 회피만 하려고 하는것 같아요 자꾸 도망치고 싶고 어떻게든 그냥 좀 넘어갔으면 좋겠고... 이젠 부딪혀보려고 하지도 않는 것 같아요.... 벌써 나이가 22이고 곧 23인데.. 정신연령은 12살, 13살이랑 다를 바가 없는것 같아요 이렇게 회피하는 습관은 어떻게 해야 고칠 수 있을까요?ㅠㅠ",
+        "turns": 31,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 생각이나 느낌이 마음을 가장 많이 차지하고 있나요?",
+                "utterance_en": "Hi, what thoughts or feelings have been occupying your mind the most lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그냥 매일매일이 너무 힘들어요.",
+                "utterance_en": "It's just so hard every day.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그러셨군요. 일상 속에서 겪는 어려움이 크게 느껴지는 것 같습니다.",
+                "utterance_en": "I see. It sounds like you're experiencing some challenges in your daily life that are weighing on you.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정확해요. 소소한 일상의 문제들도 저에겐 크게 느껴지고, 그냥 피해가고 싶어지죠.",
+                "utterance_en": "Yes, that's accurate. Even minor daily problems seem huge to me, and I just want to avoid them.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떤 일상의 문제들이 가장 크게 도전으로 느껴지시나요?",
+                "utterance_en": "What are some of the day-to-day problems that you feel are the biggest challenges?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "가령, 스스로의 의견을 낼 때나 새로운 환경에 적응해야 할 때가 그렇습니다.",
+                "utterance_en": "For example, when you have to give your own opinion or adapt to a new environment.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "소통과 적응은 대부분 사람에게 도전이 될 수 있습니다.",
+                "utterance_en": "Communication and adaptation can be a challenge for most people.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그런데 다른 사람들이 비교적 쉽게 해내는 것처럼 보여요.",
+                "utterance_en": "Yet it seems like other people do it with relative ease.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "다른 사람들과 자신을 비교했을 때 무엇이 가장 달라 보이시나요?",
+                "utterance_en": "What do you see as being most different about yourself compared to others?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "자신감이요. 다른 사람들은 자신감이 넘치는 반면 저는 그저 불안해하고 있어요.",
+                "utterance_en": "Confidence. Other people are so confident while I'm just insecure.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자신감을 느끼지 못할 때 어떤 감정이 주로 드시나요?",
+                "utterance_en": "What emotions do you usually feel when you don't feel confident?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "무력감이 크게 느껴져요.",
+                "utterance_en": "I feel so helpless.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "무력감에 사로잡혀 계시는군요, 그로 인해 자신감에 대한 욕구가 커지고 있음을 느끼고 계시네요.",
+                "utterance_en": "You are feeling helpless, which is causing you to feel a growing desire for self-confidence.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 자신감을 가지고 싶지만 어떻게 시작해야 할지 모르겠어요.",
+                "utterance_en": "Yes, I would like to be confident, but I don't know how to start.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자신감을 회복하고자 하는 욕구가 있다면서도 그 첫걸음이 어떠해야 할지 고민이 많으신 것 같습니다.",
+                "utterance_en": "It sounds like you have a desire to regain your confidence, but you're unsure of what the first step should be.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 시작하는 방법을 찾는 것부터가 벌써 막막해요.",
+                "utterance_en": "Yeah, I'm already stuck on how to start.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자신감을 높이기 위해 시도해 보고 싶은 것이 있으신가요?",
+                "utterance_en": "Is there anything you'd like to try to boost your confidence?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "작은 성공을 경험하면서 자신감을 쌓아가보고 싶어요.",
+                "utterance_en": "I want to build my confidence by experiencing small successes.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "작은 성공을 경험하며 자신감을 쌓아가고 싶으신 것 같군요.",
+                "utterance_en": "It sounds like you want to build up your confidence by experiencing small successes.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그런데 그 작은 성공을 어떻게 찾아야 할지 잘 모르겠어요.",
+                "utterance_en": "Yes, but I'm not sure how to find those small wins.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "작은 성공을 찾는 것이 어렵게 느껴지시는군요.",
+                "utterance_en": "I see that finding small successes is challenging for you.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정말 작은 것부터 시작해 볼까 생각 중이에요.",
+                "utterance_en": "I think I'll start with something really small.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "주변에서 시작할 수 있는 작은 일을 고민하고 계시다니 제 자리에서 진전을 원하시는 용기가 돋보입니다.",
+                "utterance_en": "It's great that you're thinking about small things you can start doing around you, it shows that you're willing to make progress.",
+                "label": "Affirm"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그런 용기를 발휘해도 될지 불안해요.",
+                "utterance_en": "I'm anxious about whether I should exert such courage.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "불안함 속에서도 앞으로 나아가려는 마음을 갖고 계시는 것, 그 자체가 대단합니다.",
+                "utterance_en": "It's great that you're willing to move forward despite your anxiety.",
+                "label": "Affirm"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "작은 성공이라도 경험하면 불안함을 조금씩 극복할 수 있을 거라고 생각해요.",
+                "utterance_en": "I think if you experience even small successes, you'll be able to overcome your insecurities little by little.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "작은 성공으로 불안함을 극복하고 싶어하시는군요.",
+                "utterance_en": "I see you want to overcome insecurity with small successes.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그래서 조금씩 시도해 볼려고요.",
+                "utterance_en": "Yes, so I'm going to try to do it little by little.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "조금씩 시도해 보려고 하는 마음이 있으시군요.",
+                "utterance_en": "You're willing to try a little.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "학습에 관한 작은 목표를 세워서 하나씩 달성해보려고 합니다.",
+                "utterance_en": "I will set small goals about learning and try to achieve them one by one.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "학습 목표를 설정하여 하나씩 달성해보고자 하는 계획을 가지고 계시군요.",
+                "utterance_en": "You have a plan to set learning goals and achieve them one by one.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "category": "자아/성격",
+        "context": "안녕하세요 현재 학교를 다니고 있는 학생입니다.학교 생활도 잘하고 대인관계도 좋습니다. 위에 제목을보셨듯이 화가 안나도 너무 안나요. 어렸을때부터 화를 잘 ￼안내는 성격이었는데 점차 클수록 화가 점차 줄어들더니 이젠 아예 화가 안나옵니다 예를 들어 누군가 저에게 욕을 하거나 화를 내야할 상황이 와도 별 감정이 안들고 ￼, 화도 안나고..화를 어떻게 내야 하는지 잘 몰르겠어요 주변에서도 짜증도 안내고 화를 안내서 만만하게 보는 사람들도 종종 있고, 화를 못내서 해결하지 못한 일들도 있고요. 친구들한테도 털어놓아도 오히려 좋은거다 라는 얘기만 듣고요.. 정말 제가 생각해도 너무 답답하고 제 감정을 잘 몰르겠어요. 제 성격 탓 일까요?진짜 너무 답답해서 남겨봐요",
+        "turns": 17,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 생각들이 가장 자주 떠오르게 되었나요?",
+                "utterance_en": "Hi, what thoughts have been coming up for you most often lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저는 최근에 제가 왜 화를 내지 못하는지, 그리고 이로 인해 발생하는 문제들에 대해 많이 생각하게 되었습니다.",
+                "utterance_en": "I've been thinking a lot lately about why I can't get angry, and the problems this causes.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이런 고민들은 자기 자신을 더 잘 이해하고자 하는 과정에서 나타나는 것이군요.",
+                "utterance_en": "These are the kinds of questions that come up in the process of trying to understand yourself better.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞습니다, 저는 제 감정 표현 방법을 이해하고 싶어요.",
+                "utterance_en": "That's right, I want to understand my way of expressing my feelings.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정을 표현하는 데 있어 어떤 방법이 내담자님에게 가장 어렵게 느껴지나요?",
+                "utterance_en": "What method of expressing emotion feels most difficult for you?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저는 화를 내는 방법이 가장 어렵게 느껴집니다.",
+                "utterance_en": "I find the way I get angry the hardest to deal with.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "화를 내는 것에 어려움을 겪는 것은 많은 사람들이 공감할 수 있는 부분입니다.",
+                "utterance_en": "Struggling to get angry is something many people can relate to.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 저도 그렇게 들었어요. 하지만 제 경우는 정말 화가 나지 않아서 어려운 상황이에요.",
+                "utterance_en": "Yeah, I've heard that too. But in my case, I'm not really angry, which makes it a difficult situation.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "화가 나지 않아서 발생하는 어려움이 내담자님을 깊이 고민하게 만드는군요.",
+                "utterance_en": "The difficulty that comes from not being angry makes the client think deeply.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇습니다. 이로 인해 상황을 제 때 해결하지 못하는 경우도 많아요.",
+                "utterance_en": "Yes, it does. This often leads to not resolving the situation in time.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "화를 내지 못함으로써 상황 해결에 지장을 받고 계시는군요.",
+                "utterance_en": "You are hindered in resolving the situation by not being able to get angry.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그래요. 때로는 저를 쉽게 대하는 사람들도 있고 말이죠.",
+                "utterance_en": "Yes, it's true. Sometimes people take me for a ride.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자신을 쉽게 대하는 사람들 때문에 더 많은 도전을 겪고 있군요.",
+                "utterance_en": "You are having more challenges because people are taking you for granted.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저도 그렇게 느꼈습니다. 그래서 이 문제를 어떻게 해결할 수 있을지 고민하고 있어요.",
+                "utterance_en": "I felt the same way. So I'm trying to figure out how to solve this problem.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "문제를 해결하고자 하는 고민이 깊어지고 있음을 느끼고 계시는군요.",
+                "utterance_en": "I can feel that you are feeling deep about wanting to solve the problem.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 문제 해결을 위해 첫 걸음을 떼고 싶어요.",
+                "utterance_en": "Yes, I'd like to take the first step towards resolving the issue.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이미 고민을 해결하기 위한 생각을 시작하셨군요.",
+                "utterance_en": "You've already started thinking about solving your problem.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "category": "자아/성격",
+        "context": "너무 우울해요. 요즘 작은말에도 상처를 입고 혼자서 계속 속상해해요. 작은일에도 스트레스를 많이 받아서 쌓여있는데 해소하는 방법도 모르겠어요. 사람이 많고 울면 안되는 곳이어도 주체가 안되고 눈물이 펑펑 나와요. 제가 학생이라 학교에서 수업을 듣는데, 같이 다니는 친구들도 있고 항상 같이 노는데 아무도 저를 좋아하지 않는 것 같아요. 계속 비관적으로 생각하게 되어요. 우울하면 쉬고싶고, 그럼 폰하고 하루종일 폰하면 공부고 숙제고 아무것도 안되어있고 머리만 아파요. 그럼 또 스트레스가 쌓여요. 계속 울어요. 아무도 눈치 못채게 수업시간에 혼자 울어요. 어떻게 해결해야 할지 모르겠어요..",
+        "turns": 21,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근 어떤 생각이나 감정이 가장 마음을 무겁게 하고 있나요?",
+                "utterance_en": "Hi, what thoughts or feelings have been weighing on your mind lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "최근에는 작은 일에도 예민하게 반응하고, 그게 너무 속상합니다.",
+                "utterance_en": "Lately, I've been getting triggered by the smallest things, and it's been so upsetting.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 감정을 겪고 계시는 것에 대해 경청하고 있습니다.",
+                "utterance_en": "I hear you on going through those feelings.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "항상 비관적인 생각만 하게 되고, 이로 인해 우울감이 깊어져요.",
+                "utterance_en": "I always end up thinking pessimistically, which deepens my depression.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "비관적인 생각을 할 때 어떤 상황에서 가장 흔하게 발생하나요?",
+                "utterance_en": "When do you most commonly have pessimistic thoughts?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "사실은 주변 사람들이 저를 싫어하는 것만 같아 그런 생각이 들어요.",
+                "utterance_en": "The truth is that I feel like everyone around me hates me.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "주위 사람들과의 관계에서 오는 부담감이 크게 느껴지시는군요.",
+                "utterance_en": "It sounds like you're feeling a lot of pressure from the people around you.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그 부담감 때문에 제가 제일 좋아하는 활동조차 즐길 수 없게 되었어요.",
+                "utterance_en": "Yes, the pressure has made it impossible for me to enjoy even my favorite activities.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "제일 좋아하는 활동에 대해 더 자세히 이야기해 주실 수 있을까요?",
+                "utterance_en": "Can you tell me more about your favorite activity?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "책 읽기를 정말 좋아하는데, 최근에는 집중이 잘 안 되어서 책을 펴기가 힘들어요.",
+                "utterance_en": "I really like reading books, but lately I've been having trouble focusing, so it's hard to pick up a book.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 상황에서 집중을 방해하는 요소가 무엇이라고 생각하시나요?",
+                "utterance_en": "What do you think is distracting you from focusing in that situation?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정신적으로 너무 지쳐서인 것 같아요.",
+                "utterance_en": "I think it's because I'm too mentally exhausted.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "정신적으로 지친 상태가 일상생활에 영향을 주고 계시네요.",
+                "utterance_en": "It sounds like you're feeling mentally drained and it's affecting your daily life.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 일상생활은 물론이고 학업 성과에도 영향을 주고 있어요.",
+                "utterance_en": "Yes, it affects my daily life and my academic performance.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "정신적인 지침이 학업 성과에까지 영향을 미치고 계시다니 상당한 스트레스를 받고 계시겠군요.",
+                "utterance_en": "I can imagine that you must be feeling quite stressed out with the mental guidance affecting your academic performance.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그런데 이 상태를 더 이상 지속하고 싶지 않아요.",
+                "utterance_en": "But I don't want to continue this state any longer.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "상황을 변화시키고자 하는 의지가 읽히네요.",
+                "utterance_en": "I can read your willingness to change the situation.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저도 마음속으로는 변화가 가능하다는 것을 알고 있어요.",
+                "utterance_en": "I know in my heart that change is possible.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "변화를 향한 첫걸음으로 무엇을 시도해 보고 싶으신가요?",
+                "utterance_en": "What would you like to try as a first step towards change?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "작은 성공을 위한 목표를 설정해보고 싶어요.",
+                "utterance_en": "I want to try setting goals for small successes.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "목표 설정을 통해 변화의 방향을 모색하고 계시군요.",
+                "utterance_en": "You are exploring the direction of change through goal setting.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "category": "자아/성격",
+        "context": "학생입니다 제가 내년에 방송부장을 맡게 되었어요 제가 하고 싶어서 선택하였지만 평소에 책임감도 없고 확신도 많이 없어요 누구한테 어떤 얘기를 듣고 5분만 지나도 제 머리속에서 왜곡되어서 내가 잘못들은건가 하면서 의심만 해서 실수투성이에 질문만 너무 많은편입니다 방송부장은 책임감과 확신을 가지고 다른 후배나 친구들과 함께 일을 해야합니다 빈말도 아니고 저는 진짜 아직도 모르는게 너무너무 많습니다 강당에 있는 기계들 다 할 줄도 모르는데 제가 잘 할 수 있을지 벌써 걱정입니다 지금 방송부장 선배에게 배우고 싶은데 시험기간이 달라서 물어볼 시간이 없고.. 겨우 시간되는게 12월인데 그 선배도 졸업 전이라 친구들고 시간을 보내고 싶어서 저한테 시간 쓰는게 싫을 수도 있고 너무 많은 질문을 하게되면 싫어할까봐 걱정입니다 가장 걱정되는건 제가 내년에 실수없이 책임감을 가지고 잘 할 수 있을까요 한번도 이런 리더십가진 직책을 가져본적이 없어 걱정입니다",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어려움을 겪고 있는 부분이 있으신가요?",
+                "utterance_en": "Hello, is there anything you've been struggling with lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "안녕하세요, 제가 내년에 학교에서 방송부장을 맡게 되었는데, 이 직책 때문에 무척 걱정되고 있습니다.",
+                "utterance_en": "Hi, I'm going to be the broadcasting vice president at my school next year and I'm really worried about this position.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 직책이 어깨에 무거운 짐으로 느껴지시는군요.",
+                "utterance_en": "I can see how that position weighs on your shoulders.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그렇습니다.",
+                "utterance_en": "Yes, indeed.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "새로운 역할로 인한 책임감이 압도적으로 느껴지시는 것 같습니다.",
+                "utterance_en": "It sounds like the responsibilities of your new role are overwhelming you.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 새로운 역할에 대한 책임감이 크게 다가오고 있어요.",
+                "utterance_en": "Yeah, the responsibility of the new role is hitting me hard.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "새로 맡은 역할에 대해 깊게 생각하고 계시는군요.",
+                "utterance_en": "You're really thinking deeply about your new role.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 제가 이 역할을 잘 수행할 수 있을지, 방송 부장으로서 필요한 기술을 제대로 배울 수 있을지 걱정이 많습니다.",
+                "utterance_en": "Yes, I am worried that I may not be able to perform well in this role and that I may not be able to learn the necessary skills as a broadcasting department head.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "역할을 잘 수행하기 위해 필요한 기술을 배우고자 하는 의지가 엿보이네요.",
+                "utterance_en": "I see that you are willing to learn the skills needed to perform the role well.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇게 말씀해 주시니 조금 용기가 생기는 것 같습니다.",
+                "utterance_en": "That makes me feel a little bit more courageous.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떤 기술이나 지식을 배우기 위해 어떤 계획을 세우셨는지 알고 싶습니다.",
+                "utterance_en": "I would like to know what plans you have made to learn any skills or knowledge.",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아직 구체적인 계획은 없지만 선배와의 시간을 확보해서 하나하나 배워나가고자 합니다.",
+                "utterance_en": "I don't have a specific plan yet, but I want to secure time with my senior and learn one by one.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "선배와의 시간을 확보하여 배워나가려는 의지가 보이네요.",
+                "utterance_en": "You seem to have the will to learn by securing time with your senior.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇게 하면 저도 조금씩 발전할 수 있을 것 같습니다.",
+                "utterance_en": "I think that will help me improve a little bit.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "배움을 통해 발전해 나가고자 하는 긍정적인 태도가 엿보입니다.",
+                "utterance_en": "It shows a positive attitude towards learning and wanting to improve.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "category": "자아/성격",
+        "context": "저는 원래 부터 잘 웃는 성격이긴 했지만 이제 이 잘 웃는 게 버릇이 된 것 같아요. 무슨 일이 있으면 웃으면서 회피 하거나 웃는 걸로 제 감정을 숨기는 것 같아요. 그리고 제가 제 표정이 감정이 잘 들어나서 더더욱 웃는 얼굴로 감추는 것 같아서 힘들어요. 할 말은 하면서 살아야 한다는 말이 있는데 사실 이말은 저에게 별로 큰 의미 가 없는 것 같아요. 그냥 다른 사람 한테 웃으면서 맞춰 주고 내가 잘못 한 것 도 아닌데 그냥 웃으면서 미안하다고만 말해서 그래서 그냥 제 자신이 바보 같았어요. 그렇다고 진짜 내가 하고 싶은 말을 할 용기도 안나요. 그래서 계속 웃고 참아 왔는데 지금은 괜찮겠지만 언제가는 참아온게 터질 까봐 무서워요.",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 생각이나 감정이 가장 많이 마음을 차지하고 있나요?",
+                "utterance_en": "Hi, what thoughts or feelings have been occupying your mind the most lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제가 자꾸만 웃음으로 제 감정을 숨기고 있다는 거예요.",
+                "utterance_en": "That I keep hiding my feelings by laughing.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그러셨군요. 감정을 표현하는 방법에 대해 많이 고민하고 계시는 것 같네요.",
+                "utterance_en": "I see. It sounds like you're struggling with how to express your feelings.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 제 진짜 감정을 숨기면서 사람들 앞에서 항상 웃고 있어요.",
+                "utterance_en": "Yes, I always smile in front of people while hiding my real feelings.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 웃음 뒤에 숨겨진 감정을 사람들과 공유하고 싶으신가요?",
+                "utterance_en": "Do you want to share the emotion behind that smile with people?",
+                "label": "Closed Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "솔직히 말하자면, 공유하고 싶어요.",
+                "utterance_en": "To be honest, I want to share.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "솔직한 마음을 나누고자 하는 욕구를 가지고 계시군요.",
+                "utterance_en": "You have a desire to share your honest heart.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 하지만 그 방법을 모르겠어요.",
+                "utterance_en": "Yes, but I don't know how to do that.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정을 표현하는 법을 알고자 하는 마음이 커져 가고 있네요.",
+                "utterance_en": "You are growing in your desire to know how to express your feelings.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 제가 진짜 느끼는 바를 어떻게 표현해야 할지 고민돼요.",
+                "utterance_en": "Yeah, I'm struggling to figure out how to express what I'm really feeling.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "진정성 있는 자신의 느낌을 어떻게 전달할지에 대해 깊이 생각하고 계시는군요.",
+                "utterance_en": "You're thinking deeply about how to convey your authentic self.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇게 하고 싶어요.",
+                "utterance_en": "Yes, I would like to do that.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정을 있는 그대로 표현하고자 하는 의지가 다져지고 있습니다.",
+                "utterance_en": "The will to express feelings as they are is being strengthened.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 저 스스로도 제 진짜 감정을 표현해내고자 하는 마음이 커지고 있어요.",
+                "utterance_en": "You're right, I'm feeling more and more the need to express my true feelings myself.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님의 진정한 자신을 나타내고자 하는 동기가 강해지고 있음을 느낍니다.",
+                "utterance_en": "I feel that your motivation to be your authentic self is growing stronger.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "category": "자아/성격",
+        "context": "학교갈때 엄청 긴장한채로 가요 긴장해서 옷 다 입고 몇분을 집에서 서성거려요 옷다입었으면서 그냥 가지말까 생각도해요 엄청긴장해서 위클래스에 도착하면 눈물이 나요 학원같은데 갈때도 똑같아요 긴장이 심해서 버스타고 갔다가 학원앞에서 들어가지 못하고 다시 집으로 돌아오고 그랬어요",
+        "turns": 19,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 생각들이 가장 마음을 사로잡고 있나요?",
+                "utterance_en": "Hi, what thoughts have been capturing your mind the most lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "학교나 학원 같은데 갈 때 항상 엄청 긴장돼요.",
+                "utterance_en": "I always get super nervous when I go to school or to an academy.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그러한 긴장을 겪으면서도 계속해서 학교와 학원에 가고 계시네요.",
+                "utterance_en": "You continue to go to school and academy despite such tension.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그런데 긴장 때문에 정상적으로 생활하기가 힘들어요.",
+                "utterance_en": "Yes, but I can't live normally because of the tension.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "긴장감이 일상에 큰 영향을 미치고 있음에도 불구하고 장소에 계속 참여하고 계시네요.",
+                "utterance_en": "You continue to engage with the place despite the tension having a big impact on your daily life.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇지만 매번 너무 힘들어요.",
+                "utterance_en": "Yes, but it's so hard every time.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "장소에 참석함으로써 겪는 힘든 감정에도 불구하고, 계속해서 참여하려는 내담자님의 노력이 느껴집니다.",
+                "utterance_en": "Despite the difficult emotions you experience by attending the venue, I sense your effort to continue participating.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아직 포기하지 않았다는 점이 조금은 자랑스럽기도 합니다.",
+                "utterance_en": "I'm also a little proud that I haven't given up yet.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 자랑스러움을 느끼게 하는 부분에 대해 좀 더 설명해주실 수 있나요?",
+                "utterance_en": "Can you elaborate on the part that makes you feel proud?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저 자신이 계속 시도한다는 걸 포기하지 않는다는 점에서요.",
+                "utterance_en": "In the sense that I keep trying.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 과정에서 자신을 어떻게 지지해주고 싶은지 이야기해주실 수 있나요?",
+                "utterance_en": "Can you talk me through how you would like to support yourself in that process?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저 스스로에게 더 이해심을 가지고, 조금씩 긴장을 줄여나갈 방법을 찾아보고 싶어요.",
+                "utterance_en": "I want to be more understanding with myself, and find ways to let go of the pressure a little bit at a time.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님께서 자신에게 더 이해심을 가지며 긴장을 줄이려는 방법을 찾아가려는 모습이 인상적이네요.",
+                "utterance_en": "It's impressive that you're trying to find ways to be more understanding of yourself and reduce your tension.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제가 조금씩 긴장을 풀어나가면, 조금씩 나아질 수 있을 거라 생각해요.",
+                "utterance_en": "I think if I take it easy and let myself relax a little bit, I'll be able to get better.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "긴장을 해소하려는 과정에서 긍정적인 변화를 기대하며 앞으로 나아가고자 하는 내담자님의 태도가 무척 인상적입니다.",
+                "utterance_en": "It's very impressive that you are willing to move forward and hope for positive changes in the process of trying to resolve the tension.",
+                "label": "Affirm"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아마도 그 긍정적인 변화를 통해 일상생활에서 좀 더 편안함을 느낄 수 있을 거라고 기대합니다.",
+                "utterance_en": "Hopefully, through that positive change, you'll feel a little more comfortable in your day-to-day life.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "일상에서 편안함을 느끼기 위해 어떤 작은 시도들을 해보고 싶으신가요?",
+                "utterance_en": "What small attempts do you want to make to feel comfortable in your daily life?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "학교나 학원에 가기 전에 짧은 호흡 운동을 해보고 싶어요.",
+                "utterance_en": "I want to do a short breathing exercise before going to school or academy.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "호흡 운동을 통해 긴장을 줄이고자 하는 방법을 모색해보고 계시네요.",
+                "utterance_en": "I see you're looking for ways to reduce tension through breathing exercises.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "category": "자아/성격",
+        "context": "남이 상처받을 걸 생각하면 너무 미안하고 나쁜 사람이 된 것 같고 계속 자책하다가도 반대로 남한테 모진 소리를 듣거나 상대의 행동으로 기분이 상했을 때도 좋게좋게 말하려고 굽히면서 말을해요. 미안한데 내가 이래서..이렇게 해줄 수 있니? 라고 말하는 것 조차도 큰 용기예요 똑부러지게 거절하거나 거짓말을 섞어서라도 거절하고 싶은데 너무 미숙하니까 결국 받아들일 수 밖에 없어지고 또 스트레스받고 앓는 이런 제가 너무너무 답답하고 화가 나요 이럴 땐 도움이 되는 책이나 그런게 있을까요?",
+        "turns": 25,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근 어떤 일이 가장 마음에 걸리셨나요?",
+                "utterance_en": "Hi, what's been on your mind lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저는 지난주에 친구와의 대화에서 제 자신이 상처받을 걸 알면서도 상대방의 기분을 너무 신경 써주려고 하다 보니 결국 제가 더 많이 상처받았어요.",
+                "utterance_en": "I was talking to a friend last week and I ended up hurting myself more because I was trying to be so considerate of her feelings.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 과정에서 자신을 돌보는 일에 대한 중요성을 느끼셨겠군요.",
+                "utterance_en": "I'm sure you've felt the importance of taking care of yourself in the process.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그렇게 느꼈어요. 그러나 그 상황을 어떻게 개선하고 제 자신을 보호할 수 있는지 잘 모르겠어요.",
+                "utterance_en": "Yes, I really felt that way. However, I'm not sure how to improve that situation and protect myself.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "네, 내담자님은 상대방을 배려하는 마음이 강하면서도 자기 자신을 보호하는 방법에 대해 고민하고 계시군요.",
+                "utterance_en": "Yes, it sounds like you are struggling with how to balance being considerate of others while also protecting yourself.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 남을 배려하는 것과 제 자신을 지키는 사이에서 균형을 찾는 게 힘들어요.",
+                "utterance_en": "Yeah, it's hard to find a balance between being considerate of others and taking care of myself.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님은 타인에 대한 배려와 자신의 감정 보호 사이에서 균형을 잡기 어려움을 경험하고 계시군요.",
+                "utterance_en": "It sounds like you are experiencing difficulty balancing your concern for others with your own emotional needs.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "예, 항상 다른 사람의 감정을 우선시하다 보니 자기 자신을 돌보지 못하는 상황이 자주 일어납니다.",
+                "utterance_en": "Yes, I often find myself not taking care of myself because I always put other people's feelings first.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 상황에서 자신을 돌보지 못했을 때 어떤 감정을 느끼시나요?",
+                "utterance_en": "What do you feel when you can't take care of yourself in those situations?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "솔직히 너무 화가 나고 자존감도 많이 떨어져요.",
+                "utterance_en": "I honestly feel so upset and my self esteem is down a lot.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님은 타인의 감정을 우선하는 바람에 화가 나고 자존감이 손상되는 경험을 하셨군요.",
+                "utterance_en": "It sounds like you have experienced frustration and a damaged sense of self-worth due to prioritizing others' feelings.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇습니다, 저를 돌보지 않으면 이런 부정적인 감정들이 계속 쌓이게 될 거라는 걸 알아요.",
+                "utterance_en": "I know, if I don't take care of myself, these negative feelings will keep building up.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님은 자신의 감정을 돌보지 않을 경우, 부정적인 감정이 누적될 것을 인지하고 계시군요.",
+                "utterance_en": "You are aware that if you don't take care of your emotions, negative emotions will accumulate.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그래서 저도 모르게 부정적인 감정이 쌓여 가끔은 터져버리기도 해요.",
+                "utterance_en": "Yes, so I have negative emotions build up without me knowing and sometimes it just bursts out.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 부정적인 감정이 쌓이고 터져버릴 때, 어떤 방식으로 대처하시게 되나요?",
+                "utterance_en": "When those negative emotions build up and burst, what do you do to cope?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "대부분 그냥 혼자 시간을 보내면서 마음을 진정시키려고 해요.",
+                "utterance_en": "I just spend time alone mostly to calm my mind.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "혼자 시간을 보내며 마음을 진정시키려는 내담자님의 방식으로 스스로를 다독이고 계시군요.",
+                "utterance_en": "You are taking time alone to calm yourself down, which is a good way to take care of yourself.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 하지만 그것만으론 충분하지 않은 것 같아서 뭔가 더 필요한 것 같아요.",
+                "utterance_en": "Yes, but it doesn't seem like it's enough, I think I need something more.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님을 위한 추가적인 대처 방법을 모색하고 계시는군요.",
+                "utterance_en": "You are looking for additional coping mechanisms for your client.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 제 감정 관리에 도움을 줄 수 있는 방법이나 가이드가 있는지 궁금합니다.",
+                "utterance_en": "Yes, I am wondering if there are any methods or guides that can help me with my emotional management.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정 관리에 도움이 될 만한 방법을 찾아본 경험이 있으신가요?",
+                "utterance_en": "Have you ever looked for ways to help you manage your emotions?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아직 제대로 찾아본 적은 없어요.",
+                "utterance_en": "I haven't really looked into it yet.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떤 방식의 지원이나 가이드가 내담자님의 감정 관리에 있어서 도움이 될 것 같으신가요?",
+                "utterance_en": "What kind of support or guidance would you like to have in managing your emotions?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "주변 사람들과의 관계에서 나의 감정을 제대로 표현하고 관리하는 방법에 대한 구체적인 조언이라면 도움이 될 것 같아요.",
+                "utterance_en": "I think it would be helpful if it was specific advice on how to properly express and manage my emotions in my relationships with people around me.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "타인과의 관계 속에서 본인의 감정을 표현하고 관리하는 방법을 찾아보는 것에 관심을 가지고 계시군요.",
+                "utterance_en": "It sounds like you're interested in exploring ways to express and manage your emotions in relationships with others.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "category": "자아/성격",
+        "context": "저는 20대 초중반, 한창 꿈을 향해 달려나가는 사람입니다. 저는 어릴적부터 항상 재능이 있었고 제가 좋아하는 일에 프라이드가 높았어요. 하지만 성인이 되고 진짜로 일을하게 되니 제가 많이 부족한 사람이라는 것을 알았습니다. 그래서 정말정말 힘들었지만 내가 미숙하다는걸 인정했고, 자존심을 아주 많이 내려놓게 되었습니다. 굳이 남과 나를 비교하려들지도 않고 무시하는 나쁜 버릇도 완전히 사라졌어요. 항상 내가 최고인줄 알고 살았는데 진정으로 남한테서 뭔가를 배우고싶다 라는 욕구가 드는 정도까지는 온 것 같아요. 근데 이따금씩 다른 사람이 칭찬받는걸 보거나 좋은 성과를 내면 저도 모르게 인정받고싶은 욕구가 솟구치는게 느껴집니다. 그러면 자꾸만 말로 저를 과시하게 되고, 생각만큼 좋은 반응을 이끌어내지 못하면 주눅이 들어버립니다. 주변이 잘나갈수록, 스스로를 자꾸만 의심하고 자존감이 낮아지는 저를 발견하게 됩니다. 남보다 나 스스로의 경쟁에 집중하고싶고, 나보다 잘하는 사람에게서 많은걸 배워야한다고는 생각하는데 너무 어려운 것 같습니다. 주변 사람들은 남이 잘하면 박수도 잘치고 칭찬도 잘해주는데 저는 괜히 질투심이 들킬까봐 적당히 잘했네..ㅎㅎ 하고 마는 것 같습니다. 원래 남한테 배우는게 이렇게 자존심이 상하고 힘든건가요? 남에게서 많은걸 배우는 사람들은 어떤 마인드를 가졌기에 넓은 아량으로 받아들이고 수용할수 있는걸까요. 그 비결은 너무나도 알고싶습니다. 지금 이 자존심이 제 성장을 막고있는 것 같아요.",
+        "turns": 25,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어려움을 겪고 계신 부분이 있으신가요?",
+                "utterance_en": "Hello, is there anything you've been struggling with lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 제 자존심이 결국 저의 성장을 가로막고 있다는 걸 깨달았어요.",
+                "utterance_en": "Yes, I realized that my ego was ultimately holding me back from growing.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 부분을 인식하신 것부터가 중요한 과정이라 할 수 있겠군요.",
+                "utterance_en": "I guess that's an important process, just to recognize that part.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정말 그렇게 생각하시나요? 그런데 저는 어떻게 그 자존심을 극복하고 더 나아질 수 있는지 방법을 모르겠어요.",
+                "utterance_en": "Do you really think so? But I don't know how to overcome that ego and get better.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자존심을 넘어서고 싶으나 그 방법을 찾지 못해 고민이 크시군요.",
+                "utterance_en": "You want to move beyond your pride, but you're struggling to find a way to do so.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 지금 상황에서 제가 한 걸음 더 나아가고 싶어도 어떤 방향으로 가야 할지 막막합니다.",
+                "utterance_en": "Yes, I feel stuck in my current situation and don't know which direction to take to move forward.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님께서는 앞으로 나아가고자 하는 의지가 있으나, 현재 어떠한 방향으로 나아가야 할지 결정하는 데 어려움을 겪고 계시군요.",
+                "utterance_en": "It sounds like you have the desire to move forward, but are struggling to determine the direction in which you should go.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그리고 저는 그 과정에서 제가 어떤 태도를 가져야 하는지도 알고 싶습니다.",
+                "utterance_en": "Yes, and I would like to know what attitude I should have in the process.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님께서는 자신의 태도에 대해서도 고민하고 계시군요.",
+                "utterance_en": "You are also concerned about your own attitude.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 특히 다른 사람들의 성공을 보며 자신을 어떻게 격려하고, 부정적인 감정을 어떻게 긍정적으로 활용할 수 있을지 고민이 됩니다.",
+                "utterance_en": "Yes, I am especially curious about how to encourage myself by seeing others' success and how to use negative emotions positively.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "다른 사람들의 성공을 보며 자신의 부정적인 감정을 긍정적으로 전환시키고자 하는 고민이 깊으시군요.",
+                "utterance_en": "It sounds like you're struggling with turning your negative feelings into positivity by seeing other people's success.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그리고 종종 다른 사람의 성공에 질투나 부러움을 느낄 때, 이 감정들을 어떻게 건강하게 처리할 수 있을지 알고 싶어요.",
+                "utterance_en": "Yes, and often when I feel jealous or envious of someone else's success, I want to know how I can process these feelings in a healthy way.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "부러움이나 질투와 같은 감정을 마주했을 때 어떤 생각이 드시나요?",
+                "utterance_en": "What thoughts come up for you when you encounter feelings like envy or jealousy?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "자꾸만 저를 낮추고 있나 싶어서 슬퍼집니다.",
+                "utterance_en": "I feel sad that you keep putting me down.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이러한 감정을 마주할 때 내담자님께서는 어떤 방식으로 일상에서 반응하시나요?",
+                "utterance_en": "How do you respond in your daily life when you encounter these feelings?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "대체로 그 감정을 숨기려고 하고, 아무 일도 없었다는 듯이 행동하곤 합니다.",
+                "utterance_en": "You try to hide your feelings, and act as if nothing happened.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "부러움이나 질투와 같은 감정을 숨기며, 그러한 감정이 없는 것처럼 행동하려고 하시는군요.",
+                "utterance_en": "You hide your feelings of envy or jealousy, trying to act as if you don't have them.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 저는 감정을 숨기는 것이 자연스럽게 되어버렸어요.",
+                "utterance_en": "Yes, I've become so good at hiding my emotions that it's become second nature.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정을 숨기는 것이 일상이 되어버렸군요.",
+                "utterance_en": "It's become a way of life to hide your feelings.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 하지만 이제는 그런 감정들이 저를 더 성장시킬 수 있는 방향으로 활용하고 싶어요.",
+                "utterance_en": "Yes, but now I want to use those feelings to help me grow more.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 감정들을 성장의 도구로 활용하고자 할 때, 어떤 방법을 생각하시나요?",
+                "utterance_en": "When you want to use those emotions as a tool for growth, what are some ways you think about it?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아직 구체적인 방법은 잘 모르겠지만, 성공하는 다른 사람들을 롤모델로 삼아 그들의 행동이나 마인드셋을 배우려고 합니다.",
+                "utterance_en": "I'm not sure of the specific methods yet, but I will look to others who are successful as role models and try to learn from their actions or mindset.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "성공하는 사람들의 어떤 행동이나 마인드셋이 내담자님을 가장 매력적으로 느끼게 하나요?",
+                "utterance_en": "What behaviors or mindsets of successful people make you feel most attracted?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그들이 겪는 어려움을 극복하는 과정 그리고 그 과정에서 보여주는 긍정적인 태도입니다.",
+                "utterance_en": "their struggles and how they overcome them.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어려움을 겪으면서도 긍정적인 태도로 극복하는 과정이 인상 깊으셨군요.",
+                "utterance_en": "I see, it's impressive that you were able to overcome the challenges with a positive attitude.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "category": "자아/성격",
+        "context": "업무특성상 사람들하고 소통하고 대화하고 자신감있게 대화해야하는데, 너무 두렵고 말을 잘 할 수 있을지 걱정되고 불안해서 일을 하고 싶지 않을 정도입니다.. 제대로 말을 하지 못해서 지장이 있으면 어쩌지 걱정도 되고 사람이 무섭기도 하고 멋지게 말하지 못하는 것 같아서 위축되고 여러가지로 힘이 듭니다..친한 친구들과는 편하게 말할 수 있는데 공적인 관계는 너무 두렵네요...",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 요즘 어떤 생각들이 마음을 많이 차지하고 있나요?",
+                "utterance_en": "Hi, what thoughts have been occupying your mind a lot lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "회사에서의 소통 때문에 많이 불안해요.",
+                "utterance_en": "I'm feeling a lot of anxiety because of the communication at my company.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "소통이 중요한 업무의 일부분인 걸 인식하고 계시군요.",
+                "utterance_en": "I see you recognize that communication is an important part of your job.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 특히 공적인 관계에서 자신감 있게 말하는 것이 제게 매우 어렵습니다.",
+                "utterance_en": "Yes, it is very difficult for me to speak confidently, especially in public relations.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "공적인 관계에서 자신감 있게 말하고자 할 때, 어떤 상황이 가장 도전적이라고 느끼시나요?",
+                "utterance_en": "When you want to speak up confidently in a public setting, what situations do you find most challenging?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "새로운 사람들 앞에서 발표를 해야 할 때가 가장 두렵습니다.",
+                "utterance_en": "I am most afraid of having to give a presentation in front of new people.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "새로운 사람들 앞에서 발표하는 상황이 부담스러울 수 있겠습니다. 발표가 필요한 순간마다 그 느낌을 견디고 계시군요.",
+                "utterance_en": "I can imagine that presenting in front of new people can be a challenging experience. It sounds like you've been feeling this way every time you have to present.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그런 순간마다 마음이 매우 불안해져요.",
+                "utterance_en": "Yes, my mind gets very anxious during those moments.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 순간에도 불구하고 여기까지 오셨다는 것은 매우 용기 있는 일입니다.",
+                "utterance_en": "Even with those moments, you're very courageous to have made it this far.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "마음이 조금은 놓이는 것 같습니다.",
+                "utterance_en": "I feel a little bit relieved.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님이 상황을 견디면서도 일정한 안정감을 찾으려는 시도가 느껴집니다.",
+                "utterance_en": "I sense that you are trying to find a certain stability while enduring the situation.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "사실 매번 발표할 때마다 제 마음을 어떻게 안정시킬 수 있을지 고민이 많습니다.",
+                "utterance_en": "Actually, I'm always worried about how to calm my mind every time I present.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "발표 상황에서의 안정감을 찾고자 하는 고민이 깊어 보이네요.",
+                "utterance_en": "It sounds like you're struggling to find a sense of ease in your presentation situation.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇게 발표 전에 준비하는 과정에서 약간의 긴장이 도움이 될 수도 있다고 들었어요.",
+                "utterance_en": "I've heard that a little bit of nervousness can help you in the process of preparing before the presentation.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "적당한 긴장이 긍정적인 결과로 이어질 수 있음을 인식하고 계시군요.",
+                "utterance_en": "I see that you recognize that a moderate amount of tension can lead to positive outcomes.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "category": "자아/성격",
+        "context": "뭘 하든 남들만큼 노력하지 않는 것 같아요 항상 \"나도 최선을 다해봐야지!\" 하고 다짐해도 그게 일주일을 못 가요 가끔은 하루도 못 가는 것 같아요 딱 한 번 노력했다고 생각했던 시기가 고3 수험생 시절인데 이때는 이상하게 뭘 해도 될 것 같고 나라면 할 수 있을 것 같다는 생각이 들더라고요 그래서 그 시기에 살도 6키로 정도 뺐고 항상 누가 시켜야만 하던 공부를 스스로 매일 독서실에 가서 했어요 사실 노력했다고 하기엔 정말 별거 없지만 우습게도 저게 제 인생에서 제일 열심히 살았던 기억 같아요 항상 성공한 시람들이 나와서 강연하는 걸 보면 항상 '노력해라, 열심히 살아라' 라는 말을 하고 해당 영상 댓글엔 마치 노력하는건 누구나 마음만 먹으면 언제든지 할 수 있다는 듯한 댓글들이 있던데 그런걸 보면 자꾸 \"나는 왜 노력하지 못할까? 나는 어디서부터 잘못된 사람인거지?\" 하는 생각이 들어요 저는 성공한 삶을 바라진 않고, 그냥 딱 남들 하는 만큼만이라도 하고 싶은데 그것 조차도 저한텐 너무 벅찬것 같아요 노력도 재능인걸까요? 아니면 그저 제가 게으른걸까요? 저도 노력하는 사람이 될 수 있을까요?",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 부분에서 가장 큰 어려움을 겪고 계신가요?",
+                "utterance_en": "Hi, what have you been struggling with most recently?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "뭘 하든 남들만큼 노력하지 못하는 게 가장 커요. 아무리 다짐해도 오래 가지 못해요.",
+                "utterance_en": "Whatever I do, I can't seem to put in as much effort as others. No matter how much I tell myself I'm going to do something, I can't seem to stick with it.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "계획을 실천으로 옮기는 데에 있어서 스스로에 대한 실망감을 느끼고 계시는군요.",
+                "utterance_en": "You're feeling disappointed in yourself for not following through on your plans.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정확히 그렇습니다.",
+                "utterance_en": "Yes, exactly.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "노력을 지속하기 어렵다 보니 마음이 많이 무거우실 것 같네요.",
+                "utterance_en": "It must be very heavy on your heart to keep up the effort.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 자꾸만 실패하는 제 자신이 답답하고 속상해요.",
+                "utterance_en": "Yeah, I feel frustrated and upset with myself for constantly failing.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "실패를 경험하면서도 느끼는 속상함과 답답함은 변화를 향한 소중한 감정일 수 있습니다.",
+                "utterance_en": "The frustration and feeling of being stuck that you experience with failure can be a valuable emotion that drives you towards change.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그런 관점으로 본다면 조금은 위로가 되네요.",
+                "utterance_en": "That's a little comforting, seen from that perspective.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정을 인정하고 받아들이는 것은 어려운 일이지만, 그 과정에서 자신을 이해하는 데 도움이 됩니다.",
+                "utterance_en": "It's hard to acknowledge and accept your feelings, but it helps you understand yourself in the process.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그 말씀을 듣고 보니 조금은 가벼워진 기분입니다.",
+                "utterance_en": "I feel a little lighter after hearing that.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "말씀을 듣고 가벼워지셨다고 느끼시는군요.",
+                "utterance_en": "I'm glad you feel lighter after hearing it.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그래서 저도 이제 조금씩 변화를 시도해보고 싶어요.",
+                "utterance_en": "So I want to try to make some changes now.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "변화를 시도해보고 싶다고 생각하시는군요.",
+                "utterance_en": "I see you're thinking about making a change.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 이번에는 조금 다른 방식으로 접근해보려고 해요.",
+                "utterance_en": "Yes, let's try a different approach this time.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "새로운 접근을 시도하려는 생각이 드셨군요.",
+                "utterance_en": "I see you're thinking of trying a new approach.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "category": "자아/성격",
+        "context": "매번 진심으로 사람들에게 다가가면 따돌림이나 비웃음으로 끝나요 제가 웬만하면 잘들어주고 그사람 이야기를 들으면 배려해줄려는 편인데 저의 조금만한 실수를 다른 사람과 주고 받으면서 비웃고 비난하는 일이 최근에 있었는데 그런 일을 격다보니 제 성격이 너무 미워졌습니다 제일충격적인 말이 너 그렇게 사회생활에서 생활하면 가정교육 못받았다는 소리가 나온다고 널 걱정해서 하는 말이라고 하는데 이 어이없는 말에도 단번에 말이 안나온 제가 너무 별로인것 같습니다 사람들이 제 성격의 이런부분을 바꾸라고 할때 마다 바꿔서 제 성격이 원래 뭔지도 잘 모르겠습니다 계속 이런일들이 반복되니 너무 무기력해져요 어떻게 하면 좋을까요?",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근 어떤 감정들을 자주 느끼고 계시나요?",
+                "utterance_en": "Hi, what emotions have you been feeling lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "최근에는 주로 상처받고, 무기력함을 느끼고 있어요.",
+                "utterance_en": "Lately, I've been feeling mainly hurt, and lethargic.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "상처와 무기력함이 함께하는 시간들이셨군요.",
+                "utterance_en": "It sounds like you've been having some challenging times with hurt and feeling helpless.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그런 감정들이 저를 가득 채우고 있습니다.",
+                "utterance_en": "Yes, those are the feelings that fill me.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 감정들이 내담자님의 마음을 어렵게 만들고 있군요.",
+                "utterance_en": "Those feelings are making it hard for you.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정말 어렵습니다.",
+                "utterance_en": "It's really hard.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 감정들을 당면하실 때 어떻게 대처하시나요?",
+                "utterance_en": "How do you deal with those feelings when they come up?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "보통은 혼자 시간을 보내려고 해요.",
+                "utterance_en": "I usually try to spend time alone.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "혼자 시간을 보내며 감정들과 마주하실 때가 많으시군요.",
+                "utterance_en": "You spend a lot of time alone, facing your emotions.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇게 감정을 진정시키려고 노력하고 있어요.",
+                "utterance_en": "Yes, I'm trying to calm down.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정을 진정시키려는 노력이 내담자님에게는 중요한 과정이 되고 있군요.",
+                "utterance_en": "It sounds like trying to calm down is an important process for you.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 하지만 그렇게 해도 문제의 근본은 해결되지 않는 것 같아요.",
+                "utterance_en": "True, but I don't think that solves the root of the problem.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "감정을 진정시키는 것 외에 어떤 접근을 시도해보셨는지 듣고 싶어요.",
+                "utterance_en": "I'd love to hear what approaches you've tried besides calming down.",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "실제로 다른 사람들과 좀 더 건강한 방식으로 소통하려고 노력해보려고 생각 중입니다.",
+                "utterance_en": "I'm actually thinking of trying to communicate with others in a more healthy way.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "건강한 소통을 위한 노력이 새로운 방향을 제시할 수 있겠군요.",
+                "utterance_en": "I see, the effort to have healthy communication can lead to new directions.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "category": "자아/성격",
+        "context": "저는 스스로에 대한 기준이 높은 편이에요. 뭐든 최상위권이 아니면 만족하지 못하고 만족스러울 만큼 잘하지 못하면 기분이 안좋아요. 제가 못하는 건 하고 싶지도 않구요. 스스로 노력하면 모든 목표를 차근차근 이뤄나갈 수 있을거라 생각했는데 당연하지만 모든 일이 제 맘대로 되진 않아요. 외모나 인간관계같은 부분은 노력해도 한계가 있을 수 있고 그게 당연한 거지만 저는 그게 너무 싫어요. 외모도 인간관계도 일도 최고 수준이고 싶지만 제 현실은 그것과 너무 달라요. 이런 모습도 나의 일부인데 도저히 받아들일 수 없고 이런 사실을 자각할 때마다 너무나도 우울해져요. 스스로를 채찍질한다는 명목으로 모든 부분에서 남과 저를 비교하고 저를 깎아내리게 됩니다. 이제는 그것이 습관으로 남아 성장을 위한 동력은 커녕 저를 우울의 늪으로 빠트려요. 사람이 완벽할 수 없다는걸 머리로는 알지만 저는 자꾸만 완벽에 가까운 기준을 스스로에게 디밀어요. 어디다 말하지도 못하겠고 너무 힘들어요. 저는 어떻게 하면 좋을까요....... 이젠 정말 벗어나고 싶습니다.",
+        "turns": 19,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 문제로 가장 고민이 되셨나요?",
+                "utterance_en": "Hi, what has been troubling you the most lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저는 제가 스스로에게 높은 기준을 가지고 있다는 게 가장 큰 문제예요.",
+                "utterance_en": "I think the biggest problem I have is that I have high standards for myself.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 기준 때문에 스스로를 너무 압박하고 있다고 느끼시는군요.",
+                "utterance_en": "You feel like you're putting too much pressure on yourself because of that standard.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그렇습니다. 저는 늘 제 자신을 다른 사람과 비교하게 돼요.",
+                "utterance_en": "Yes, I do. I always compare myself to others.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "다른 사람과 비교할 때 주로 어떤 면에서 비교하시나요?",
+                "utterance_en": "When you compare yourself to others, what are you comparing yourself to?",
+                "label": "Closed Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "주로 외모, 인간관계, 그리고 일에서 비교해요.",
+                "utterance_en": "I compare myself mostly in looks, relationships, and work.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 세 가지 중에서 가장 큰 압박을 느끼는 부분이 있나요?",
+                "utterance_en": "Do you feel the most pressure from any of those three?",
+                "label": "Closed Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "가장 큰 압박은 일에서 느껴요.",
+                "utterance_en": "The biggest pressure I feel is from work.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "성과를 향해 끊임없이 노력하고 계신 걸로 보입니다.",
+                "utterance_en": "It seems that you are constantly striving for success.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 늘 최선을 다해도 원하는 결과를 얻지 못할 때가 많아요.",
+                "utterance_en": "Yes, it's often the case that you do your best and still don't get the result you want.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "원하는 결과를 얻지 못할 때가 많다고 느끼시는군요.",
+                "utterance_en": "I see that you often feel like you don't get the results you want.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그리고 그럴 때마다 저는 저를 더 혹독하게 대하게 돼요.",
+                "utterance_en": "Yes, and it makes me treat myself more harshly.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그럴 때 어떤 방식으로 자신을 대하게 되시나요?",
+                "utterance_en": "How do you treat yourself when that happens?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제가 부족하다고 생각하는 부분을 계속해서 탓하고, 그런 저를 못마땅해하면서 정말 엄격하게 다루게 되요.",
+                "utterance_en": "I keep blaming myself for what I think I lack, and then I get really hard on myself for being so hard on myself.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "부족하다고 느낀 부분을 엄격히 다루면서 스스로를 못마땅해하시는 경향이 있네요.",
+                "utterance_en": "You tend to be hard on yourself, while strictly addressing the areas you feel you are lacking in.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 사실은 제가 스스로를 너무 혹독하게 대하는 걸 이제는 바꾸고 싶어요.",
+                "utterance_en": "Yes, the truth is that I want to change the way I treat myself so harshly.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스스로를 혹독하게 대하는 방식에서 변화를 원하고 계시는군요.",
+                "utterance_en": "You're ready for a change in the way you treat yourself harshly.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정확히 말씀하셨어요, 이런 방식에서 벗어나려고 해요.",
+                "utterance_en": "Exactly, I'm trying to get away from this way of doing things.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스스로에 대한 태도를 변화시키려는 의지가 강하신 것 같습니다.",
+                "utterance_en": "It sounds like you have a strong desire to change your attitude towards yourself.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "category": "자아/성격",
+        "context": "누군가와 가까워지다 보면 그들중 대부분이 제게 실망했다 하고 어느 순간 떠납니다. 들었던 말로는 \"너는 내가 유일하게 잡고있던 한 사람이다\", \"너는 나에게 선물이였다\" ,\"너는 형과 아빠랑 다를줄 알았다.\" 등등입니다. 여태까지 실망시키지 않기위해 계속 연기했지만 저도 지쳤는지 이따금씩 실수를 하게 됩니다. 그럴때마다 하나 둘 떠나갔고요. 실망시키지 않으려면 어떻게 해야하나요? 끝까지 연기를 하지 못한다면 처음부터 그렇게까지 친절하게 대하면 안되는건가요?",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 일이 가장 마음에 걸리시나요?",
+                "utterance_en": "Hi, what's been on your mind lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "주변 사람들과 가까워지다 보면 저를 향한 기대치 때문에 제 자신을 잃게 되는 것 같아요.",
+                "utterance_en": "I feel like I lose myself because of the expectations people have of me when I get close to them.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 경험을 통해 스스로에 대해 많이 생각하게 되셨군요.",
+                "utterance_en": "That must have been a very enlightening experience for you.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 많이요. 역할을 계속해서 유지하는 것이 힘들어지고 있어요.",
+                "utterance_en": "Yes, a lot. It's getting hard to keep the roles going.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "역할을 유지하는 과정에서 어떤 부분이 가장 힘드신가요?",
+                "utterance_en": "What part of the role do you find most challenging?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "다른 사람들의 기대를 충족시키기 위해 항상 연기를 해야 한다는 점이에요.",
+                "utterance_en": "Having to put on an act all the time to meet other people's expectations.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "다른 사람들의 기대를 충족시키려 하시는 노력이 정말 대단하시네요.",
+                "utterance_en": "You are so good at trying to meet other people's expectations.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇지만 그 과정이 저를 지치게 만들고 있어요.",
+                "utterance_en": "It's wearing me down though.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 과정에서 느끼는 피로함이 상당하신 것 같군요.",
+                "utterance_en": "It sounds like you're feeling quite fatigued in the process.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정신적으로 너무 힘들어서 어떻게 해야 할지 모르겠어요.",
+                "utterance_en": "Yes, it's so mentally draining, I don't know what to do.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님께서는 현재의 정신적 어려움을 극복하고자 하는 의지가 있으신 것 같네요.",
+                "utterance_en": "It sounds like you have a strong desire to overcome your current mental difficulties.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 저도 변화를 위해 뭔가 해야겠다는 생각이 드는 것 같아요.",
+                "utterance_en": "Yeah, I think I'm going to have to do something about it, for a change.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "변화를 향한 첫걸음에 대한 생각이 드시는군요.",
+                "utterance_en": "You're thinking about the first step toward change.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저만의 가치와 강점을 찾아서 자신감을 갖고 싶어요.",
+                "utterance_en": "I want to find my own values and strengths to be confident.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스스로의 가치와 강점을 찾으려는 의지가 저를 매우 긍정적으로 만들고 있어요.",
+                "utterance_en": "The willingness to find my own value and strengths is making me feel very positive.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "category": "자아/성격",
+        "context": "10년차 직장인입니다 나이 먹고 사회생활 할수록 시절인연이라는 말의 의미를 더더욱 체감하고 있어요 학교 친구들은 멀어진지 오래고 사회에선 애초에 친구라는걸 사귈 수가 없네요 그래서 다들 연애하고 결혼하나본데 상황상 인연 만나기도 쉽지가 않네요 나름 취미생활도 하고 직장에서 자리도 잡아서 여유도 있는데 나를 찾아주는 존재가 없으니 인생무상의 감정이 들어요 약속 생길 일 없이 회사랑 집만 왔다갔다.. 혼자서라도 주말이나 휴가 이용해서 여기저기 가봤지만 말할 대상도 없이 돌아다니는것도 이젠 지치고 재미없네요 다들 어디서 그렇게 인연을 만나는걸까요? 저도 주말에 만날 생각만으로 설레는 그런 존재가 옆에 있었으면 좋겠어요.. 저에게 기쁨과 즐거움을 가져다주는 그런 존재요 사회생활 시작한 이후로 인생이 변하는 것 없이 그대로라서 더 지겹고 힘듭니다 앞으로도 변하는 게 없을까봐 두렵기도 하구요",
+        "turns": 17,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 상황이나 생각 중 어떤 것이 마음에 걸리게 되었나요?",
+                "utterance_en": "Hi, has anything been on your mind lately, either a situation or a thought?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제가 직장 생활을 하면서 느낀 점은, 정말 시절인연을 찾기가 어렵다는 거예요. 학교 친구들과는 점점 멀어지고, 직장에서는 친구를 사귀기도 어려워요.",
+                "utterance_en": "What I've noticed in my working life is that it's really hard to find a time-in-life friend. You grow apart from your school friends, and it's hard to make friends at work.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이전의 친구 관계와 현재의 관계 형성 과정에서 느끼는 간극이 있으시군요.",
+                "utterance_en": "I see, you're feeling a gap between your previous friendships and the current ones you're forming.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그리고 그 사이에서 정말 외로움을 많이 느껴요.",
+                "utterance_en": "Yes, and I feel really lonely in between.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "외로움을 느낄 때 어떻게 대응하시나요?",
+                "utterance_en": "How do you respond when you feel lonely?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "막상 뭐라고 대응해야 할지 모르겠어요. 그저 시간이 해결해 줄 것이라고 생각하며 하루하루를 보내고 있습니다.",
+                "utterance_en": "I don't know what to respond to him. I just let time pass and hope that it will resolve itself.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "시간이 지남에 따라 어떤 변화를 기다리고 계시는 것 같네요.",
+                "utterance_en": "I guess you're waiting for some changes over time.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 변화를 기대하고 있지만, 사실 어떻게 해야 할지 막막해요.",
+                "utterance_en": "Yes, I'm looking forward to the change, but I'm actually at a loss as to how to do it.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님은 미래에 대한 기대감을 가지고 계시면서도 그 방향을 어떻게 잡아야 할지 결정하기 어려워하시는 것 같습니다.",
+                "utterance_en": "It sounds like you have some expectations for the future, but you're struggling to decide on a direction to take.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 정확히 어떤 행동을 취해야 할지 결정하는 게 어렵습니다.",
+                "utterance_en": "Right, it's hard to decide what action to take exactly.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떤 행동을 취하게 되면 상황이 개선되리라 생각하시나요?",
+                "utterance_en": "What action do you think will improve the situation?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "사실 생각해보면, 소셜 클럽이나 동호회 같은 새로운 사회적 활동에 참여해보는 것도 한 방법일 것 같아요.",
+                "utterance_en": "Actually, now that I think about it, maybe joining a new social club or hobby group could be a good way to meet new people.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "새로운 사회적 활동에 참여해보고자 하는 생각이 드셨군요.",
+                "utterance_en": "I see, you're thinking about joining a new social activity.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 어쩌면 그곳에서 저와 비슷한 상황의 사람들을 만날 수도 있겠다는 생각이 들어요.",
+                "utterance_en": "Yes, I think I might meet people in a similar situation to me there.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "소셜 클럽이나 동호회에 참여하며 만나고 싶은 사람들은 어떤 이들인가요?",
+                "utterance_en": "What kind of people would you like to meet up with by joining a social club or society?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저와 같이 취미나 관심사를 공유할 수 있는 사람들이요.",
+                "utterance_en": "People who I can share my hobbies and interests with.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "공통의 관심사를 가진 사람들과 교류하길 원하시군요.",
+                "utterance_en": "You want to socialize with people who share your interests.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "category": "자아/성격",
+        "context": "제가 너무 예민한 성격에 유리멘탈입니다...자낮에 열등감도 있구요... 평소 친구들끼리 잘 지내다가도 왜 나랑 놀아주는 걸까? 라는 생각이 들기도 하고...남에게 못따라가고 뒤처진다고 생각이 많이 듭니다. 그래서 늘 열등감에 시달리고 우울해해요... 추측으로는 이 성격이 형성되기까지 유년기와 청소년기의 문제가 있을거라...생각이 들어요. 지금은 부모님이 이혼하셨기에 더는 볼 사람은 아니지만, 아빠는 늘 술 마시고 때리고 폭언하는 사람이였어요. 엄마는 너 버리고 도망갔다 돌아온 사람이라고, 그나마 내 옆에 껴주는걸 감사하라는 말을 늘 들었거든요. 그래서 언제 버림 받을지 몰라 두려워했고(이건 가족단위를 넘어서 인간관계까지 갔어요...), 스스로 늘 부족한 사람이라는 생각에 시달렸습니다. 이지 모든게 다 저한테는 모든게 부담이 됐어요... 하지만 지금의 전 가족한테 시달리고 있는 옛날의 제가 아니에요...그런데도 아직도 유리멘탈에 늘 이런거에 시달리는 제가 부끄럽습니다. 20 중반이 되어서도 이러고 싶지 않은데 이런 절 내려놓고 조금이라도 더 단단해지고 싶어요.ㅠㅠ 제 감정에 휘둘리지 않고 단단한 마음으로 살려면 어떻게 해야할까요..?",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 요즘 어떤 생각들이 주로 마음을 차지하고 계신가요?",
+                "utterance_en": "Hi, what are some of the thoughts that have been occupying your mind lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저는 항상 제가 충분히 좋은 사람인지, 친구들에게 소외되지 않는지 걱정이 많아요.",
+                "utterance_en": "I'm always worried about whether I'm good enough, or if I'm being left out by my friends.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 고민 때문에 마음이 많이 무겁겠어요.",
+                "utterance_en": "I can imagine that weighs heavily on your mind.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그렇습니다. 아무래도 제 마음이 너무 가볍게 상처받는 것 같아요.",
+                "utterance_en": "Yes, it really is. I guess my heart is too easily broken.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님은 상처받기 쉬운 마음을 가지고 계시는 것 같네요.",
+                "utterance_en": "It sounds like you have a sensitive heart.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정확해요. 아마도 어린 시절의 경험이 큰 영향을 끼친 것 같습니다.",
+                "utterance_en": "Yes, that's accurate. I guess my childhood experiences had a big impact.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 어린 시절의 경험이 어떤 영향을 끼쳤다고 생각하시나요?",
+                "utterance_en": "What impact do you think that childhood experience had?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제 부모님의 이혼과 아버지의 폭력, 그리고 엄마의 방임이 저를 불안하게 만들었어요.",
+                "utterance_en": "My parents' divorce and my father's violence and my mother's neglect made me insecure.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 경험들이 내담자님의 마음속에 깊은 자리를 차지하고 있군요.",
+                "utterance_en": "Those experiences have a deep place in your heart.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그래서 저는 사람들과의 관계에서도 늘 불안감을 느낍니다.",
+                "utterance_en": "Yes, so I feel insecure in my relationships with people too.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 경험이 관계에서의 불안감을 안고 계시게 만드는군요.",
+                "utterance_en": "I can see how that would carry over into relationship insecurities.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 항상 남들보다 못하다고, 소외되고 버림받을 거라는 생각에 사로잡혀 있어요.",
+                "utterance_en": "Yes, I'm always thinking that I'm not good enough, that I'm going to be left out and abandoned.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님은 관계에서 소외되고 버림받을 것이라는 두려움이 있으신 것 같네요.",
+                "utterance_en": "It sounds like you have some fears about being left out and abandoned in relationships.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 늘 그런 두려움 때문에 스스로를 지나치게 몰아세우기도 해요.",
+                "utterance_en": "Yes, I do push myself too hard because of that fear all the time.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 두려움이 내담자님을 매우 엄격하게 대하게 만들었군요.",
+                "utterance_en": "That fear made you very strict with your clients.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "category": "자아/성격",
+        "context": "어떤 일을 하기 전에 귀찮다는 생각이 먼저 들어요 할 일이 있는데 마음 먹기가 쉽지 않아요 사소한 것 조차 실행하기가 어렵게 느껴져요 그리고 제가 너무 부정적인 것만 같아요 예전 만큼 사기가 오르지도 않고 그냥 그러려니 하루를 보내요 그런 시간이 반복될수록 제 자신을 잃어가는 느낌도 들어요 가끔씩은 정말 아무도 모르는 곳에 혼자 조용히 있고 싶다는 생각도 해요 마치 내가 여기 없었던 것처럼요 감정기복도 있고 무기력하다는 소리도 듣는데 이런 것들을 숨기기도 쉽지 않아요 이런 제가 답답하게 느껴져요 정말 어떻게 하면 좋을까요?",
+        "turns": 23,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 생각들이 많이 드셨나요?",
+                "utterance_en": "Hi, what have you been thinking about a lot lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "할 일이 있는데 시작하기가 어렵고, 귀찮다는 생각이 먼저 들어요.",
+                "utterance_en": "I have things to do, but it's hard to get started, and I feel lazy.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이런 고민을 통해 어려움을 인식하고 계시는군요.",
+                "utterance_en": "I see you are aware of the challenges through this struggle.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 사실 그렇습니다.",
+                "utterance_en": "Yes, actually.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떤 일을 시작하는 데 있어 가장 큰 장애물이 무엇이라고 느끼시나요?",
+                "utterance_en": "What do you feel is the biggest obstacle to getting started on anything?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그냥 제 내면에서 오는 이 근거 없는 무기력함 같아요.",
+                "utterance_en": "It's just this unfounded feeling of lethargy that comes from within me.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 무기력함을 극복하기 위해 시도해본 방법이 있나요?",
+                "utterance_en": "Have you tried anything to combat that lethargy?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아직 구체적으로 뭘 해봤다고 말씀드릴 만한 건 없어요.",
+                "utterance_en": "I don't have anything specific to tell you about what I've done yet.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어려움을 직면하고 있는 상황을 잘 인지하고 계시군요.",
+                "utterance_en": "I see, you are aware of the challenges you are facing.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 무언가 바꿔야 한다는 건 알고 있어요.",
+                "utterance_en": "Yes, I know I need to change something.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "주어진 상황 속에서 변화를 향한 생각을 하고 계시는군요.",
+                "utterance_en": "I see you're thinking about making a change within the given situation.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "이 상황을 어떻게 개선해야 할지 모르겠지만, 더 이상 이대로 있기는 싫어요.",
+                "utterance_en": "I don't know how to improve this situation, but I don't want to be like this anymore.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이대로 머물고 싶지 않다는 의지가 내담자님 안에 있는 것 같습니다.",
+                "utterance_en": "It sounds like there is a will in you to not stay this way.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 무언가 달라져야겠다는 강한 생각이 들어요.",
+                "utterance_en": "Yes, I really feel like something has to change.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "변화에 대한 갈망이 내담자님을 이끄는 힘이 되고 있는 것 같습니다.",
+                "utterance_en": "It sounds like a craving for change is driving you.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇게 느낀다면 소극적이었던 제 자신을 조금씩 변화시켜나가야 해요.",
+                "utterance_en": "If you feel that way, you should change yourself little by little from being passive.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "소극적이었던 자신을 변화시켜나가고 싶다는 생각을 하고 계시군요.",
+                "utterance_en": "You are thinking about changing yourself from being passive.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 제 스스로에 대한 이런 마음가짐이 처음인 것 같아요.",
+                "utterance_en": "Yeah, I think this is the first time I've had this mindset about myself.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이 마음가짐을 유지하며 행동으로 옮기기 위해 어떤 조치를 고려하고 계시나요?",
+                "utterance_en": "What steps are you considering taking to move forward with this mindset?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "작은 일부터 차근차근 해나가보려고 합니다.",
+                "utterance_en": "I'm going to start small and work my way up.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "구체적으로 어떤 작은 일부터 시작해보고 싶으신가요?",
+                "utterance_en": "What small thing would you like to start with specifically?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아침에 일어나자마자 침대를 정리하는 것부터 시작해보려고 합니다.",
+                "utterance_en": "I'm going to start by making my bed as soon as I wake up in the morning.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "아침에 일어나자마자 침대를 정리하려고 하시는군요.",
+                "utterance_en": "You're getting up and making your bed first thing in the morning.",
+                "label": "Simple Reflection"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "category": "자아/성격",
+        "context": "어릴때부터 너무 게을렀어요 근데 해야될 과제가 있는데 이걸 하려고하면 하기싫고 너무 답답하고 미칠거같아요 해야될게 많지 않을때도 마찬가지에요 교실에 그냥 너무 병걸린거같고 답답해요 ㅜㅜ 교실에 앉아있는 것만으로도 답답해요ㅜ 아무것도 하기 싫은데 또 아무것도 하지 않을때 너무 무기력하고 우울해요 진짜 어떡해해야될까요?ㅜ 1년이 넘도록 이 상황이 지속되요 원래 우울, 외로움은 많이 탔지만 무언가 해야될 때 하기싫고 못하겠고 답답함 때문에 힘들어요 그래서 그런지 무언가를 학습하면 기억에 오래 안남는거 같고 금방 잊어버려요 제 생각, 사고도 갇혀있는 느낌이 들때도 있어요ㅜㅜ 1년 동안 이룬것도 없는거같아요ㅜ 조언 부탁드려요ㅜㅜ",
+        "turns": 23,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근 어떤 일들이 마음에 걸리게 되었나요?",
+                "utterance_en": "Hi, what things have been on your mind lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "어릴 때부터 항상 게을렀거든요. 이제 저에게 주어진 과제들을 해야 하는데, 이걸 시작하려고만 하면 너무나 하기 싫고, 내면에서 굉장한 답답함과 분노가 치밀어 올라와요.",
+                "utterance_en": "I've always been lazy since I was a kid. Now I have a bunch of tasks that I need to do, and whenever I try to start doing this, I feel so unmotivated, and I feel a huge frustration and anger inside me.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "과제를 시작하려는 시도조차 내면의 답답함과 분노로 어려움을 겪고 계시네요.",
+                "utterance_en": "It sounds like you're struggling with feelings of frustration and anger that are making it difficult for you to even attempt to start your homework.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그리고 그 답답함은 과제가 많지 않을 때도 마찬가지에요. 게다가 교실에 앉아만 있어도 숨이 막힐 것 같은 느낌이 들어요.",
+                "utterance_en": "Yes, and it's even worse when there's not a lot of homework. Plus, I feel like I'm suffocating just sitting in the classroom.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떤 상황에서도 숨이 막힐 듯한 느낌이 내담자님을 힘들게 하고 있군요.",
+                "utterance_en": "It sounds like the feeling of being suffocated is making you feel bad in any situation.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그게 정말 힘들어요. 아무것도 하기 싶지 않으면서 동시에 아무것도 하지 않을 때 느껴지는 무기력함과 우울함이 절 사로잡고 있어요.",
+                "utterance_en": "Yeah, it's really hard. I don't want to do anything, and at the same time, the feeling of lethargy and depression that comes with not doing anything is consuming me.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "아무 것도 하기 싫으면서, 아무것도 하지 않을 때의 무기력함과 우울함에 사로잡혀 계시군요.",
+                "utterance_en": "You feel like doing nothing, and you're consumed by a sense of lethargy and depression when you're not doing anything.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정확해요. 이 느낌이 1년 넘게 계속되고 있어서 저 자신이 너무 답답합니다.",
+                "utterance_en": "Yes, that's accurate. I've been feeling this way for over a year now, and it's been very frustrating for me.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떠한 순간에 이 느낌이 조금이라도 가벼워지는지 알 수 있을까요?",
+                "utterance_en": "Can you tell if this feeling is getting any lighter at any moment?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "사실 야외로 조금 걸어나가거나, 좋아하는 음악을 들을 때 잠깐이나마 마음이 가벼워지는 것 같아요.",
+                "utterance_en": "I actually feel a little lighter when I walk outdoors for a bit, or when I listen to my favorite music.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 외에도 마음이 가벼워지게 하는 활동이 있다면 어떤 것들이 있나요?",
+                "utterance_en": "What are some activities that make you feel lighthearted besides that?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "음, 사실 친구와 대화하거나, 책을 읽을 때도 약간 나아지는 기분이 들어요.",
+                "utterance_en": "Well, I actually feel slightly better when I talk to a friend, or read a book.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "친구와 대화하거나 책을 읽을 때 기분이 나아지신다고 하셨군요.",
+                "utterance_en": "I see, you feel better when you talk to friends or read books.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그런데 그런 순간들이 잦지 않아 항상 도움을 받지는 못해요.",
+                "utterance_en": "Yes, but I don't always get help because those moments don't happen often.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "특정한 활동들이 분명 마음을 가볍게 해드리지만, 그 순간들이 자주 오지 않아 일상에서의 안정을 찾기 어렵게 느끼고 계시는군요.",
+                "utterance_en": "It sounds like you're experiencing some moments of relief, but they're not coming often enough to provide a sense of stability in your daily life.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그렇습니다. 그래서 저는 일상에서 더 많은 안정감을 찾고 싶어요.",
+                "utterance_en": "Yes, absolutely. That's why I want to find more stability in my life.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "일상에서 안정감을 더욱 느끼길 원하시는군요.",
+                "utterance_en": "I see, you're looking for a way to feel more grounded in your daily life.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 안정감을 느끼며 과제를 해나가고 싶어요.",
+                "utterance_en": "Yes, I want to feel secure and get my work done.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "일상에서 안정감을 느끼며 과제를 해나가기 위해 시도해보고 싶은 것이 있나요?",
+                "utterance_en": "Is there anything you'd like to try to help you feel more grounded and able to tackle your tasks?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "음식을 조금 더 규칙적으로 섭취하고 싶어요.",
+                "utterance_en": "I want to eat a little more regularly.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "규칙적인 식사를 통해 안정감을 찾으려는 노력이 대단하시네요.",
+                "utterance_en": "That's great that you're trying to find stability through regular meals.",
+                "label": "Affirm"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그리고 조금씩 운동을 해서 체력을 기르고 싶어요.",
+                "utterance_en": "Yes, and I want to get in shape by exercising a little bit.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "체력을 기르기 위해 조금씩 운동을 시작하려는 생각도 훌륭하시네요.",
+                "utterance_en": "That's great that you're thinking about starting to exercise a little bit to get in shape.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "category": "자아/성격",
+        "context": "어릴때부터 워낙 소심한성격이어서 발표도 꺼려하고 대회도 나가기싫어하고 남들이 해주는대로 따라가고 늘 피해다니면서 수동적으로 살아왔는데 성인이 된 지금까지도 무언가를 적극적으로 나서는것이 꺼려지는것같아요 남들에 비해 몇배로 두려워하는것같구요 저에 대한 자신이 없어요 속으로 무의식적으로 과연 내가 할수있나? 라는 생각이 스치듯 지나가기도 하구요 평소엔 그래 이게 내 성격이지 하고 넘어가다가도 요즘 사람들과 어울리면서 적극적으로 인생을 개척해나가는 모습이 너무 부럽더라구요 자꾸만 피하려다보면 내가 할수있는영역이 좁아지는것같고... 꿈도 크게 갖고 세상을 넓게 바라보며 살고싶은데 자꾸만 마음에서부터 온갖걱정과 두려움이 생겨서 용기있게 남들 앞에 나서기가 힘들어요 어떻게 극복해낼수있을까요",
+        "turns": 21,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근 어떤 생각들이 마음을 가장 많이 차지하고 있나요?",
+                "utterance_en": "Hi, what thoughts have been occupying your mind the most lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제가 사람들 앞에 나서는 것이 매우 두려워지는 생각들이 가장 많이 듭니다.",
+                "utterance_en": "I have the most thoughts that make me very afraid of being in front of people.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그렇군요. 사람들 앞에서 말하는 것이 쉽지 않은 상황이시군요.",
+                "utterance_en": "I see. It sounds like you're in a situation where speaking in front of people is not easy for you.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정확합니다. 그래서 사람들과 어울릴 때 저의 비활성적인 모습이 점점 더 부각되는 것 같아요.",
+                "utterance_en": "Yes, that's accurate. So I guess that's why my inactivity is becoming more and more apparent when I'm around people.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그런 상황에서 어떤 감정을 느끼시나요?",
+                "utterance_en": "What do you feel in that situation?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저는 주로 두려움과 소외감을 느낍니다.",
+                "utterance_en": "I feel mostly fear and alienation.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "두려움과 소외감이 쉽게 느껴지는 순간이 많으셨군요.",
+                "utterance_en": "I can imagine there were many moments of fear and feeling left out.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 특히 새로운 환경이나 사람들과 처음 만날 때 그런 감정이 강해집니다.",
+                "utterance_en": "Yes, it's especially strong when you're in a new environment or meeting people for the first time.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "새로운 환경이나 사람들과의 첫 만남에서 강한 감정을 경험하는 것은 자연스러운 일이에요.",
+                "utterance_en": "It's natural to experience strong emotions in new environments or first encounters with people.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정말요? 그렇다면 조금은 안심이 되는 것 같습니다.",
+                "utterance_en": "Really? Well, that's a bit of a relief, I suppose.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 감정들을 조금 더 괜찮게 만들기 위해 어떤 방법을 시도해 보셨나요?",
+                "utterance_en": "What have you tried to make those feelings feel a little better?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "사실 저는 아직 구체적으로 시도해본 방법은 없습니다.",
+                "utterance_en": "I actually haven't tried any specific methods yet.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "아직 시도해 본 방법이 없다고 하셨군요.",
+                "utterance_en": "You said you haven't tried any methods yet.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 어떤 첫걸음을 떼어야 할지 조차 막막해서 그런 것 같습니다.",
+                "utterance_en": "Yes, I think it's because I'm not even sure what the first step is.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "첫걸음을 어떻게 시작해야 할지 막막하다고 느끼시는 상황이시군요.",
+                "utterance_en": "I see, you're feeling stuck on how to start.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 어디서부터 시작해야 할 지 모르겠어요.",
+                "utterance_en": "Yeah, I really don't know where to start.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그럼 어떤 방법이나 활동이 내담자님에게 조금의 용기나 자신감을 줄 수 있을지 생각해보셨나요?",
+                "utterance_en": "So, have you thought of any ways or activities that might give you a little bit of courage or confidence?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "아직 구체적으로는 어떤 방법이 좋을지 모르겠지만 소규모 모임 같은 것에 참여해보는 것이 좋을 것 같아요.",
+                "utterance_en": "I don't know what would be good for me yet but I think I would like to get involved in some small group things.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "소규모 모임에 참여해보고 싶어하시는 의향이 있으시군요.",
+                "utterance_en": "I see, you're interested in joining a small group.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 처음엔 사람이 많지 않은 환경에서부터 시작하는 것이 부담이 덜할 것 같습니다.",
+                "utterance_en": "Yes, it would be less overwhelming to start in an environment with fewer people.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "부담이 덜한 환경에서 시작하는 것이 좋겠다고 생각하시는군요.",
+                "utterance_en": "I see, you'd prefer to start in a less demanding environment.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "category": "자아/성격",
+        "context": "저는 어렸을때부터 자존감이 높지 않았기 때문에 남들이 저를 어떻게 생각하는지에 대해 신경을 많이 섰고,친구들에게 저의 의사를 말하는 것을 어려워했습니다. 그래서 제 친구들 중 60프로는 저에게 말을 생각나는대로 뱉거나 있어도 되고 없어도 되는 존재? 그닥 저를 중요한 친구로 생각을 하지 않는다는 느낌을 받았었습니다. 제가 잘해준 만큼 관계는 더 좋아질 거라고 생각했지만 호의가 당연하게 생각되어지는 이런 관계에 스트레스를 받았으며 이런 제 성격이 너무 싫었기ㅜ때문에 혼자서라도 고쳐보고자 노력했고, 지금은 예전보다 나아진 상태입니다. 하지만 스스로 노력을 해봤지만 나아지기만 할뿐 완전히 고쳐지지가 않아서 도움을 받고자 고민을 적어보았습니다",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 것이 마음에 걸리게 되셨나요?",
+                "utterance_en": "Hi, what's been on your mind lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "안녕하세요, 실은 제가 자존감이 낮은 편이라 다른 사람들의 시선을 많이 신경 쓰고, 친구들에게 제 의사를 잘 표현하지 못하곤 해요.",
+                "utterance_en": "Hi, I'm actually someone with low self-esteem, so I tend to care a lot about what others think of me and I don't express my opinions to my friends very well.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "다른 사람들의 시선이 부담되어 자신의 의사 표현에 어려움을 겪고 계시군요.",
+                "utterance_en": "It sounds like you're struggling to express yourself due to the pressure of others' opinions.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇습니다. 가끔은 제가 어떻게 행동해야 할지도 모를 때가 많아요.",
+                "utterance_en": "Yes, I do. I often don't know how I should act.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "타인의 반응에 민감하게 반응하시면서 때론 스스로의 행동에 대해 확신이 부족하신 것 같습니다.",
+                "utterance_en": "It sounds like you are sensitive to others' reactions and sometimes lack confidence in your own actions.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "맞아요, 그리고 그런 제 자신이 너무 답답하고 힘들었습니다.",
+                "utterance_en": "Right, and I was so frustrated and struggling with myself for that.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그렇게 스스로를 답답해하고 힘들어하시는 상황에 대해 공유해주셔서 감사합니다.",
+                "utterance_en": "Thank you for sharing about your situation and how you are feeling frustrated and overwhelmed.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 공유해주셔서 감사합니다. 제 상황을 이해해주시고 공감해주셔서 고맙습니다.",
+                "utterance_en": "Yes, thank you for sharing. I appreciate your understanding and empathy towards my situation.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스스로 이해하고 공감해주실 수 있는 분에게 마음을 열어주신 건 중요한 경험이 될 거예요.",
+                "utterance_en": "It's important to open up to someone who can understand and empathize with you.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇죠, 이런 경험이 저에게 아주 큰 도움이 되었습니다.",
+                "utterance_en": "Sure, I'm glad that this experience has been so helpful for you.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내담자님께서 앞으로 어떤 변화를 경험하고 싶으신가요?",
+                "utterance_en": "What kind of changes would you like to experience in the future?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "타인의 평가보다 제 자신에 대한 평가를 더 중요하게 생각하며 자신감을 가질 수 있었으면 좋겠어요.",
+                "utterance_en": "I wish I could value my own opinion of myself more than others' opinions and be more confident.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "타인의 평가보다 자신에 대한 평가를 중요하게 여기며 자신감을 얻고자 하는 욕구가 분명해보입니다.",
+                "utterance_en": "It sounds like you value your own assessment of yourself more than others' and you have a desire to feel confident.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그렇습니다. 저는 제 스스로의 가치를 더 인식하고 싶어요.",
+                "utterance_en": "Yes, I do. I want to be more aware of my own worth.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스스로의 가치를 인식하려는 내담자님의 노력이 인상적이네요.",
+                "utterance_en": "It's impressive that you're trying to recognize your own value.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "category": "자아/성격",
+        "context": "지금 내가 가고있는 길이 맞는건지 잘 모르겠네 내인생이라 누가 답을 정해줄수도 없는거잖아 너무 불안해 나만 잘못된길을 걷고있는거 같아서 도움을 요청하기엔 너무 늦었을까봐 돌아가기엔 너무 멀리왔을까봐",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 감정이 가장 자주 느껴지셨나요?",
+                "utterance_en": "Hi, what emotion have you been feeling most often lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "최근에 제가 가장 자주 느끼는 감정은 불안감입니다.",
+                "utterance_en": "The emotion I feel most often lately is anxiety.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 감정에 대해 말씀해 주시니 감사합니다.",
+                "utterance_en": "Thank you for telling me about that feeling.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "제가 선택한 길에 대한 확신이 없어서 그런 것 같아요.",
+                "utterance_en": "I think it's because I don't have any conviction about the path I've chosen.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "결정에 대한 불확실함이 불안감을 가져오는군요.",
+                "utterance_en": "Uncertainty about decisions brings anxiety.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 지금까지 내려온 결정들이 올바른 것인지 끊임없이 의문이 듭니다.",
+                "utterance_en": "Yes, I constantly wonder if the decisions that have been made so far are the right ones.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "내려진 결정들에 대해 다시 생각하게 만드는 상황 속에서 내담자님은 의심이 많이 드시는군요.",
+                "utterance_en": "In the midst of circumstances that make you second guess the decisions that have been made, you are feeling doubtful.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그리고 그 의심이 저를 많이 괴롭히고 있어요.",
+                "utterance_en": "Yes, and that doubt is eating me up.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "의심이 괴로움으로 이어지는 경험을 하고 계시는군요.",
+                "utterance_en": "I can see that you are experiencing some distress.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "심지어 그 의심 때문에 제가 지금 걷고 있는 길이 옳은지도 잘 모르겠습니다.",
+                "utterance_en": "I don't even know if the path I'm on is the right one because of that doubt.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "의심 때문에 현재의 방향성에 대해서도 확신이 서지 않으시는군요.",
+                "utterance_en": "I see, you're not sure about the current direction either because of doubts.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 더 이상 어느 방향으로 가야 할지 결정하기가 힘들어요.",
+                "utterance_en": "Yes, it's hard to decide which way to go anymore.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "방향을 결정하는 일이 가장 어려운 과제가 되셨군요.",
+                "utterance_en": "Determining the direction is the most difficult task for you.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇습니다. 결정해야 할 때마다 마음이 많이 무거워집니다.",
+                "utterance_en": "It is. It weighs heavily on my mind every time I have to make a decision.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "마음이 무거워지는 순간들이 많으셨군요.",
+                "utterance_en": "You had a lot of heavy moments.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "category": "자아/성격",
+        "context": "항상 친구를 사귀면 생각없이 행동하다 누구 하나 소외시키고 말실수도 잦고 내가 봐도 정 떨어질 행동을 하고 친해지면 계속 거친 말이 나가고 매번 똑같은 잘못을 해서 제가 그 관계를 망쳐버려요 목소리도 작고 발표나 쌤이 물어보면 무섭고 긴장되고 쌤이 물어볼땐 항상 끄덕끄덕만 해요 잘못하고 제발 생각좀 하고 행동하자고 아무리 생각해도 한동안은 괜찮다가 내가 잘못한걸 잊어버릴때쯤 똑같이 반복되요 고치려면 어떻게 해야 하나요?이제 사람 만나는게 불편하고 가족도 다 저 좋아하지 않는 것 같아서 가족도 불편하고 모임때는 나가고싶지 않아서 계속 피해요",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 마음에 어려움을 겪고 계신 부분이 있으신가요?",
+                "utterance_en": "Hi, is there anything that's been on your mind lately that you've been struggling with?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 사실 친구들과의 관계에서 제가 자주 실수를 저지르는 것 같아요.",
+                "utterance_en": "Yes, I think I often make mistakes in my relationships with friends.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "그 부분이 정말 신경 쓰이시겠어요.",
+                "utterance_en": "That must really bother you.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "정말 그렇습니다. 매번 같은 실수를 반복한다는 것이 저도 너무 답답하고요.",
+                "utterance_en": "It's so true. I feel so frustrated that I keep making the same mistakes over and over again.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "자주 반복되는 실수로 인해 크게 답답해하고 계시는군요.",
+                "utterance_en": "I see that you are feeling frustrated with your frequent mistakes.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 저도 이제 변하고 싶어요.",
+                "utterance_en": "Yes, I want to change now too.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이제 변화를 추구하시려는 모습이 정말 용기 있어 보입니다.",
+                "utterance_en": "Now you look really courageous to seek change.",
+                "label": "Affirm"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "사람들과 어울릴 때 좀 더 신중하게 말하려고 노력하겠습니다.",
+                "utterance_en": "I will try to be more careful with my words when I am around people.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "대인 관계에서 신중하게 말하려는 노력은 긍정적인 변화로 이어질 수 있겠어요.",
+                "utterance_en": "I can see how trying to be careful with my words in interpersonal relationships can lead to positive changes.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그리고 스트레스를 받을 때마다 제 행동이 잘못된 것인지 되돌아보는 습관을 가져보겠습니다.",
+                "utterance_en": "And I will make a habit of reflecting on whether my behavior is wrong whenever I feel stressed.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스트레스를 받을 때 행동을 되돌아보는 습관이 반성적인 태도를 더욱 강화시킬 거예요.",
+                "utterance_en": "The habit of reflecting on your behavior when you're stressed will make you more reflective.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "예, 스트레스를 받을 때마다 저 자신과 제 행동을 되돌아본다면, 저도 모르게 반복되는 실수를 줄일 수 있을 거라고 믿습니다.",
+                "utterance_en": "Yes, I believe that by reflecting on myself and my actions whenever I feel stressed, I can reduce the mistakes I make unknowingly.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "스트레스를 받을 때 자신과 자신의 행동을 되돌아보면 실수를 줄일 수 있을 것이라 믿으시는군요.",
+                "utterance_en": "I see, you believe that reflecting on yourself and your actions when you're stressed will help you make fewer mistakes.",
+                "label": "Simple Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "예, 그런 식으로 저를 조금씩 개선해 나가는 과정을 거치면, 좀 더 나은 대인 관계를 형성할 수 있을 것 같습니다.",
+                "utterance_en": "Yes, I think that going through the process of improving myself in that way will help me to have better interpersonal relationships.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "조금씩 개선해 나가는 과정을 통해 더 나은 대인 관계를 형성하려는 계획이시군요.",
+                "utterance_en": "I see, you're planning to improve your interpersonal skills by making small improvements over time.",
+                "label": "General"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "category": "자아/성격",
+        "context": "게으르고 나태한 천성 때문에 현실이 엉망이다. 대학교 2학년인데 학창시절과 달라진 것이 아무것도 없다. 제대로 하는 것도 없고 의지도 없다. 모든게 엉망이라 어디서부터 어떻게 해야할지 모르겠다. 주변에 도움을 청할 사람도 없고 청했다가 받을 비난이 너무 두렵다.",
+        "turns": 15,
+        "dialogue": [
+            {
+                "role": "Therapist",
+                "utterance_ko": "안녕하세요, 최근에 어떤 일들로 마음이 무겁거나 걱정되는 것이 있으신가요?",
+                "utterance_en": "Hi, is there anything that's been on your mind or worrying you lately?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "안녕하세요, 대학교 2학년인데요, 저는 항상 게으르고 나태해요. 학창시절과 달라진 것이 하나도 없어서 현재 상태에 대해 많이 걱정되고 있습니다.",
+                "utterance_en": "Hi, I'm a sophomore in college, and I'm always lazy and sluggish. I'm very worried about my current state because nothing has changed from my school days.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "고등학교 때와 달라지지 않은 자신을 보며 걱정이 클 것 같네요.",
+                "utterance_en": "I bet you're worried about yourself not being different from when you were in high school.",
+                "label": "Complex Reflection"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 정말 그래요. 도대체 어디서부터 어떻게 시작해야 할지 몰라서 막막해요.",
+                "utterance_en": "Yes, exactly. I'm at a loss for where to even begin.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "어떤 방식으로 자신의 상황을 개선하고 싶은지 나누어 주실 수 있나요?",
+                "utterance_en": "Can you share with me in what way you would like to improve your situation?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "저도 사실 여기에 대한 구체적인 답을 알지 못해요.",
+                "utterance_en": "I don't actually know the specific answer to this.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "이 상황에서 어떤 부분이 가장 우선적으로 개선되었으면 좋겠다고 생각하시나요?",
+                "utterance_en": "What part of this situation do you think should be improved first?",
+                "label": "Open Question"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "학업에 좀 더 집중하고 싶어요.",
+                "utterance_en": "I want to focus more on my studies.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "학업에 집중하기 위한 노력에 대해 고민하시는 군요.",
+                "utterance_en": "I see you are struggling with your efforts to focus on your studies.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "네, 그걸 어떻게 실천으로 옮기는지 알고 싶어요.",
+                "utterance_en": "Yes, I want to know how to put that into practice.",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "실천으로의 이행을 고민하시는 부분에서 시작점을 찾고 계시군요.",
+                "utterance_en": "You are looking for a starting point in the part where you are struggling with the transition to practice.",
+                "label": "General"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "어떻게 하면 좋은 습관을 형성할 수 있을까요?",
+                "utterance_en": "How can I form good habits?",
+                "label": null
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "습관 형성은 작은 목표부터 세우고, 그것을 일정 기간 동안 꾸준히 반복하는 것에서 시작됩니다. 연구에 따르면 새로운 습관을 만들기까지 평균적으로 21일에서 66일이 걸린다고 합니다.",
+                "utterance_en": "Habit formation starts with setting small goals and repeating them consistently over a period of time. Studies have shown that it takes an average of 21 to 66 days to form a new habit.",
+                "label": "Give Information"
+            },
+            {
+                "role": "Client",
+                "utterance_ko": "그렇다면 제가 학습 습관을 개선하기 위해 매일 특정 시간에 공부하는 작은 목표를 세워보겠습니다.",
+                "utterance_en": "Then I will set a small goal to study at a specific time every day to improve my study habits.",
+                "label": "Change Talk"
+            },
+            {
+                "role": "Therapist",
+                "utterance_ko": "특정 시간에 공부하는 작은 목표를 세워보려고 하시는군요.",
+                "utterance_en": "I see, you're trying to set a small goal of studying at a specific time.",
+                "label": "Simple Reflection"
+            }
+        ]
+    }
+]
